@@ -1,0 +1,19 @@
+.svg {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  min-height: 26rem;
+  left: 0;
+  z-index: -1;
+}
+
+.container-cards {
+  position: relative;
+  top: 5rem;
+}
+
+.svg,
+.svg-fondo {
+  border-top-left-radius: 70px;
+  border-top-right-radius: 70px;
+}
