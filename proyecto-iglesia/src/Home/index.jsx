@@ -18,7 +18,7 @@ export function Home() {
                     <p className='font-roboto font-medium text-sm text-gray-500'>¿Qué evento te gustaría explorar?</p>
                 </section>    
             </div>
-            <div className='flex justify-items-center mt-[2rem]'>
+            <div className='flex justify-items-center'>
                 <figure className='svg bg-cover bg-center h-64 sm:h-80 md:h-96 lg:h-128  bg-blue-700 opacity-85'>
                     <img 
                     src={FondoPrincipal}
@@ -26,17 +26,16 @@ export function Home() {
                     alt='Fondo-Principal' />
                 </figure>
                 <div className='container-cards flex flex-wrap flex-col lg:flex-row gap-8 '>
-                
+                <>
                 { CardsInformationHome.map( information => (
                     <InformationActivities 
                         key={information.title}
                         imageName={information.imageName}
                         title={information.title}
                         description={information.description}
-                        button={information.button}
-                        to={information.to}/>
+                        button={information.button}/>
                 ))}
-            
+                </>
                 </div>
                 
             </div>
