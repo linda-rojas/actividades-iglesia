@@ -14,7 +14,8 @@ export function Home() {
                     <img src={LemaArmonia} alt='Lema-armonia' />
                 </figure>
                 <section className='flex flex-col items-center gap-2'>
-                    <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold text-4xl'>EVENTOS DICIEMBRE</h1>
+                    <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold text-4xl'>EVENTOS</h1>
+                    <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold text-4xl'>DICIEMBRE</h1>
                     <p className='font-roboto font-medium text-sm text-gray-500'>¿Qué evento te gustaría explorar?</p>
                 </section>    
             </div>
