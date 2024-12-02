@@ -12,7 +12,7 @@ export const ActivitiesCurch = () => {
                 </article>
                 <h1 className='text-center font-roboto font-semibold text-[24px] text-white select-none '>Iglesia la plata</h1>
             </header>
-            <section className='relative top-[3rem] mb-[5rem] flex flex-wrap flex-col items-center lg:flex-row gap-8'>
+            <section className='relative top-[3rem] select-none mb-[5rem] flex flex-wrap flex-col items-center lg:flex-row gap-8'>
             { CardsInformationCurch.map( information => (
                     <CardsInformativeActivities
                         key={information.title}
