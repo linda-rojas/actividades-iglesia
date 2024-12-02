@@ -17,7 +17,7 @@ export function InformationActivities(
     
     
     return (
-        <div className='w-full max-w-[291px] max-h-[84px] flex bg-white shadow-slate-700 shadow-md'>
+        <div className='w-full max-w-[330px] min-h-[90px] flex bg-white shadow-slate-700 shadow-md'>
             <figure className='max-w-[97px] min-h-[ 84px]'>
                 <img 
                     className='object-cover h-full'
@@ -25,8 +25,8 @@ export function InformationActivities(
                     alt='image-card' />
             </figure>
             <div className='flex flex-col justify-center aling-center'>
-                    <span className='font-roboto font-medium text-[15px] text-center text-gray-600'>{title}</span>
-                    <p className='font-roboto font-light text-[9px] text-center mb-[5px]'>{description}</p>
+                    <span className='font-roboto font-medium text-[20px] text-center text-gray-600'>{title}</span>
+                    <p className='font-roboto font-light text-[13px] text-center mb-[5px]'>{description}</p>
             </div>
         </div>
     )
