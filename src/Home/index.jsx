@@ -7,7 +7,7 @@ export function Home() {
 
 
     return (
-        <div className='flex flex-col items-center h-screen justify-between'>
+        <div className='flex flex-col items-center justify-between'>
             <div className='flex flex-col items-center'>
                 <figure className='w-56 h-24'>
                     <img src={LemaArmonia} alt='Lema-armonia' />
