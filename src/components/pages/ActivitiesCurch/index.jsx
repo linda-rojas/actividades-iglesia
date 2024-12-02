@@ -10,7 +10,7 @@ export const ActivitiesCurch = () => {
                 <article className='flex ml-5'>
                     <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
                 </article>
-                <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Iglesia la plata</h1>
+                <h1 className='text-center font-roboto font-semibold text-[24px] text-white select-none '>Iglesia la plata</h1>
             </header>
             <section className='relative top-[3rem] mb-[5rem] flex flex-wrap flex-col items-center lg:flex-row gap-8'>
             { CardsInformationCurch.map( information => (
