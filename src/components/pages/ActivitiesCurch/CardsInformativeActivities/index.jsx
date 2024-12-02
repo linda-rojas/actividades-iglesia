@@ -30,7 +30,7 @@ export function CardsInformativeActivities(
                     <span className='m-[-2px] font-roboto font-medium text-[16px] text-center text-gray-600'>{title}</span>
                     <p className='text-[10px] w-[142px] font-roboto font-light text-description text-center'>{description}</p>
                     <Link to={to}>
-                        <button className='bg-[#ef8f41e3] hover:bg-green-600 flex justify-center  mt-1 font-normal w-20 h-4 rounded-full ml-2 text-white text-[12px] '><span className='span'>{button}</span></button>
+                        <button className='bg-[#ef8f41e3] hover:bg-green-600 flex justify-center  mt-1 font-normal w-20 rounded-full ml-2 text-white text-[12px] '><span className='span'>{button}</span></button>
                     </Link>
 
             </div>
