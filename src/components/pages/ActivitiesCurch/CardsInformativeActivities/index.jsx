@@ -28,7 +28,7 @@ export function CardsInformativeActivities(
             </figure>
             <div className='flex flex-col w-full justify-center items-center'>
                     <span className='m-[-2px] font-roboto font-medium text-[16px] text-center text-gray-600'>{title}</span>
-                    <p className='text-[10px] w-[142px] font-roboto font-light text-description text-center'>{description}</p>
+                    <p className='text-[10px] w-[160px] font-roboto font-light text-description text-center'>{description}</p>
                     <Link to={to}>
                         <button className='bg-[#ef8f41e3] hover:bg-green-600 flex justify-center  mt-1 font-normal w-20 rounded-full ml-2 text-white text-[12px] '><span className='span'>{button}</span></button>
                     </Link>

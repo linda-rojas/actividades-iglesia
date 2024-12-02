@@ -6,7 +6,7 @@ export const ActivitiesCurch = () => {
 
     return (
         <div>
-            <header className='h-[50px] bg-[#3e8cf2] flex gap-[4rem] items-center w-full'>
+            <header className='h-[50px] bg-[#3e8cf2] flex gap-[6rem] items-center w-full'>
                 <article className='flex ml-5'>
                     <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
                 </article>
