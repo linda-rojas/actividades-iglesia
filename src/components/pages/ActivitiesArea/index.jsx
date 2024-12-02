@@ -6,8 +6,8 @@ export const ActivitiesArea = () => {
 
     return (
         <div>
-            <header className='h-[50px] bg-[#3e8cf2] flex gap-[5rem] justify-center items-center w-full'>
-                <article className='flex'>
+            <header className='h-[50px] bg-[#3e8cf2] flex gap-[5rem] items-center w-full'>
+                <article className='flex mar'>
                     <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
                 </article>
                 <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Eventos zona 61</h1>
