@@ -1,5 +1,5 @@
 import './App.css'
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import { Home } from './Home'
 import { NationalActivities } from './components/pages/NationalActivities'
 import { ActivitiesArea } from './components/pages/ActivitiesArea';
@@ -11,8 +11,7 @@ import { ListToilet } from './components/pages/routes/ListToilet';
 function App() {
 
   return (
-    <>
-    <Router>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/NationalActivities" element={<NationalActivities />} />
@@ -21,8 +20,7 @@ function App() {
         <Route path="/LeadersCalendar" element={<LeadersCalendar/>} />
         <Route path="/ListToilet" element={<ListToilet/>} />
       </Routes>
-    </Router>
-    </>
+    </HashRouter>
   )
 }
 
