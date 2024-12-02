@@ -1,18 +1,22 @@
 import { ChevronLeftIcon } from '@heroicons/react/24/solid'
 import { CardsInformationAreaEvents } from '../../../mocks/cards-informations';
 import { InformationActivities } from './InformationActivities';
+import { Link } from 'react-router-dom';
 
 export const ActivitiesArea = () => {
+    const home = '/'
 
     return (
         <div>
-            <header className='h-[50px] bg-[#3e8cf2] flex gap-[5rem] items-center w-full'>
-                <article className='flex mar'>
-                    <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
-                </article>
+            <header className='h-[50px] bg-[#3e8cf2] flex gap-[5rem] items-center w-full select-none'>
+                <Link to={home}>
+                    <article className='flex ml-5'>
+                        <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
+                    </article>
+                </Link>
                 <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Eventos zona 61</h1>
             </header>
-            <section className='container-cards flex flex-wrap flex-col items-center mt-[3rem] lg:flex-row gap-8'>
+            <section className='container-cards flex flex-wrap flex-col items-center mt-[3rem] lg:flex-row gap-8 select-none'>
             { CardsInformationAreaEvents.map( information => (
                     <InformationActivities
                         key={information.title}
