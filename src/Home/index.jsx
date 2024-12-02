@@ -13,7 +13,7 @@ export function Home() {
                     <img src={LemaArmonia} alt='Lema-armonia' />
                 </figure>
                 <section className='flex flex-col items-center gap-2'>
-                    <div className='text-lg'>
+                    <div className='text-[25px]'>
                         <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>EVENTOS</h1>
                         <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>DICIEMBRE</h1>
                     </div>
@@ -21,7 +21,7 @@ export function Home() {
                 </section>    
             </div>
             <div className='flex justify-items-center'>
-            <div className='relative top-[6rem] flex flex-wrap flex-col lg:flex-row gap-4 '>
+            <div className='relative top-[8rem] flex flex-wrap flex-col lg:flex-row gap-4 '>
                 
                 { CardsInformationHome.map( information => (
                     <InformationActivities 
