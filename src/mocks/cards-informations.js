@@ -36,9 +36,9 @@ export const CardsInformationNationalActivities = [
 
 export const CardsInformationAreaEvents = [
   {
-    imageName: "bautismos",
-    title: "Bautismos",
-    description: "Martes 10  11:00AM Lugar: finca el salado",
+    imageName: "vijilia",
+    title: "Vijilia",
+    description: "Viernes 6 Hora: 7:00 Lugar: finca el salado",
     button: "Ver más",
   },
 ];
@@ -63,6 +63,7 @@ export const CardsInformationCurch = [
     title: "Actividades cocina",
     description: "¡Conoce quién está a cargo de la cocina este mes!",
     button: "Ver más",
+    to: "/ListKitchen",
   },
   {
     imageName: "aseo",
@@ -994,5 +995,40 @@ export const CardsInformationListUshers = [
     date1: "31",
     date1Text: "Concepción",
     textToilet: "Por favor hacer el aseo.",
+  },
+];
+
+export const CardsInformationListKitchen = [
+  {
+    date1: "5",
+    date2: "7",
+    date3: "8",
+    date1Text: "HNO YONEFER Y ESPOSA",
+    date2Text: "HNA YURANI Y HNA ANYI",
+    date3Text: "HNO PEDRO Y ESPOSA",
+  },
+  {
+    date1: "12",
+    date2: "14",
+    date3: "15",
+    date1Text: "HNA MARTA QUIROZ",
+    date2Text: "CULTO MISIONERO",
+    date3Text: "CULTO MISIONERO",
+  },
+  {
+    date1: "19",
+    date2: "21",
+    date3: "22",
+    date1Text: "HERMANA ARGENIS",
+    date2Text: "MAESTRAS DOMINICALES",
+    date3Text: "HNAS MERLY Y EDNA",
+  },
+  {
+    date1: "26",
+    date2: "28",
+    date3: "29",
+    date1Text: "HNA LAURA Y HNA DENIS",
+    date2Text: "HNAS ANDREA R Y ADELA V",
+    date3Text: "HNAS LUSDARY Y FLOR",
   },
 ];
