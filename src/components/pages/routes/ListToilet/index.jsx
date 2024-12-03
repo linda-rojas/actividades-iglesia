@@ -17,7 +17,7 @@ export const ListToilet = () => {
                 </Link>
                 <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Listado de Aseo</h1>
             </header>
-            <section className='relative top-[2rem] mb-[5rem] flex flex-wrap flex-col items-center lg:flex-row select-none'>
+            <section className='relative top-[5rem] flex flex-wrap flex-col items-center lg:flex-row select-none'>
             <div className='h-5 min-w-[270px] flex items-center justify-around text-[13px] text-white bg-green-700'>
                 <span>Sábado</span>
                 <span>Familia</span>
