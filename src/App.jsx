@@ -11,6 +11,7 @@ import { Sector3 } from './components/pages/routes/Sectors/ListCalendarInformati
 import { Sector4 } from './components/pages/routes/Sectors/ListCalendarInformative/Sector4';
 import { Sector5 } from './components/pages/routes/Sectors/ListCalendarInformative/Sector5';
 import { AltoSanIsidro } from './components/pages/routes/Sectors/ListCalendarInformative/AltoSanIsidro';
+import { ListUshers } from './components/pages/routes/ListUshers';
 
 
 
@@ -30,6 +31,7 @@ function App() {
         <Route path="/Sector4" element={<Sector4/>} />
         <Route path="/Sector5" element={<Sector5/>} />
         <Route path="/AltoSanIsidro" element={<AltoSanIsidro/>} />
+        <Route path="/ListUshers" element={<ListUshers/>} />
       </Routes>
     </HashRouter>
   )
