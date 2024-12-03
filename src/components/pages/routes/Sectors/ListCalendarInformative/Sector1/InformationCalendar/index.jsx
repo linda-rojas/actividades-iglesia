@@ -1,5 +1,5 @@
 
-export function CalendarInformativeActivities(
+export function InformationSector(
     {
     // eslint-disable-next-line
     day,
