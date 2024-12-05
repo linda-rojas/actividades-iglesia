@@ -25,9 +25,9 @@ export function Home() {
                             </p>
                             {/* <ArrowLongRightIcon className='w-[18px] h-[18px] text-gray-500' stroke='currentColor'/> */}
                             <div className='flex items-center justify-center h-[20px]'>
-                                <p className='text-[12px] mb-[8px]'>👉</p>
+                                <p className='text-[12px] mb-[5px]'>👉</p>
                             </div>
-                            <figure className='h-[25px] w-[25px]'>
+                            <figure className='h-[30px] w-[30px]'>
                                 <img 
                                     src={DiosTuRazonDeVivir}
                                     className='h-full w-full'
