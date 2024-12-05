@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 
 export function InformationActivities(
     {
@@ -17,7 +18,8 @@ export function InformationActivities(
     
     
     return (
-        <div className='w-full xs:max-w-[280px] s:max-w-[330px] min-h-[90px] flex bg-white shadow-slate-700 rounded-[0.8rem] shadow-md'>
+        <Link to={to}>
+                    <div className='w-full xs:max-w-[280px] s:max-w-[330px] min-h-[90px] flex bg-white shadow-slate-700 rounded-[0.8rem] shadow-md'>
             <figure className='max-w-[97px] min-h-[ 84px]'>
                 <img 
                     className='object-cover h-full rounded-l-[0.8rem]'
@@ -29,6 +31,8 @@ export function InformationActivities(
                     <p className='font-roboto font-light xs:text-[12px] s:text-[13px] text-center mb-[5px]'>{description}</p>
             </div>
         </div>
+        </Link>
+
     )
 }
 
