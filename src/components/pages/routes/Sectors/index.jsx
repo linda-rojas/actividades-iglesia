@@ -9,7 +9,7 @@ export const Sectors = () => {
     const ActivitiesCurch = '/ActivitiesCurch'
     return (
         <div className='select-none'>
-            <header className='h-[50px] bg-[#3e8cf2] flex gap-[5rem] items-center w-full select-none'>
+            <header className='s:h-[65px] bg-[#3e8cf2] flex xs:gap-[4rem] s:gap-[5rem] items-center w-full select-none'>
                 <Link to={ActivitiesCurch}>
                     <article className='flex ml-5'>
                         <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>

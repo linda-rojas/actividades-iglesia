@@ -17,10 +17,10 @@ export function InformationActivities(
     
     
     return (
-        <div className='max-w-[330px] min-h-[90px] w-full flex bg-white shadow-slate-700 shadow-md'>
+        <div className='xs:max-w-[280px] s:max-w-[330px] min-h-[90px] w-full rounded-[0.8rem] flex bg-white shadow-slate-700 shadow-md'>
             <figure className='max-w-[120px] min-h-[84px]'>
                 <img 
-                    className='object-cover h-full'
+                    className='object-cover h-full rounded-l-[0.8rem]  '
                     src={imageCard} 
                     alt='image-card' />
             </figure>

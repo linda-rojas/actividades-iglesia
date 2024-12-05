@@ -19,10 +19,10 @@ export function CardsInformativeActivities(
     
     
     return (
-        <div className='max-w-[285px] max-h-[95px] w-full flex bg-white shadow-slate-700 shadow-md'>
+        <div className='xs:max-w-[275px] s:max-w-[285px] s:max-h-[95px] w-full flex bg-white rounded-[0.8rem] shadow-slate-700 shadow-md'>
             <figure className='max-w-[97px] min-h-[84px]'>
                 <img 
-                    className='object-cover h-full'
+                    className='object-cover h-full rounded-l-[0.8rem]'
                     src={imageCard} 
                     alt='image-card' />
             </figure>

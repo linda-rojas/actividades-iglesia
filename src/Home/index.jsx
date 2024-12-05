@@ -20,7 +20,7 @@ export function Home() {
                     <p className='font-roboto font-medium text-sm text-gray-500'>¿Qué evento te gustaría explorar?</p>
                 </section>    
             </div>
-            <div className='flex justify-items-center pb-20 pt-12 relative w-full justify-center'>
+            <div className='flex justify-items-center pb-20 pt-14 relative w-full justify-center s:pt-[7rem]'>
                 <figure className='svg absolute b-[0px] w-full left-0 z-[-1] rounded-tl-[70px] rounded-tr-[70px] top-[0] bg-blue-700 opacity-85 h-full'>
                     <img 
                     src={FondoPrincipal}

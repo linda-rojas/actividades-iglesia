@@ -30,14 +30,14 @@ export const CardsInformationNationalActivities = [
     imageName: "convencion",
     title: "Convención cali",
     description:
-      "¡Únete a nosotros del 15 al 18 de Enero!. Para un encuentro de restauración y renovación espiritual",
+      "¡Únete a nosotros del 15 al 18 de Enero!. Dirección: calle 10#36-124 arroyohondo autopista cali, Yumbo",
   },
 ];
 
 export const CardsInformationAreaEvents = [
   {
     imageName: "vijilia",
-    title: "Vijilia",
+    title: "Vigilia",
     description: "Viernes 6 Hora: 7:00 Lugar: finca el salado",
     button: "Ver más",
   },
@@ -994,7 +994,6 @@ export const CardsInformationListUshers = [
   {
     date1: "31",
     date1Text: "Concepción",
-    textToilet: "Por favor hacer el aseo.",
   },
 ];
 

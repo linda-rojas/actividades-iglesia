@@ -6,6 +6,10 @@ export default {
       fontFamily: {
         montserrat: ["Montserrat", "roboto", "sans-serif", "poppins"],
       },
+      screens: {
+        xs: "300px", //breakpoint para pantallas más pequeñas
+        s: "375px",
+      },
     },
   },
   plugins: [],
