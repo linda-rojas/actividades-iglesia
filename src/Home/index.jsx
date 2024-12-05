@@ -19,6 +19,7 @@ export function Home() {
                     <div className='text-[25px]'>
                         <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>EVENTOS</h1>
                         <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>DICIEMBRE</h1>
+                        
                         <a href='https://www.facebook.com/MMM.zona.61?locale=es_LA' className='flex gap-[4px] justify-center items-center'>
                             <p className='font-roboto font-medium text-[11px] text-gray-500'>Sigue nuestras novedades
                             </p>

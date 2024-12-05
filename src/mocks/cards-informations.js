@@ -40,7 +40,11 @@ export const CardsInformationAreaEvents = [
     imageName: "vijilia",
     title: "Vigilia",
     description: "Viernes 6 Hora: 7:00 Lugar: finca el salado",
-    button: "Ver más",
+  },
+  {
+    imageName: "damas2",
+    title: "Retiro Esposas de Pastores ",
+    description: "desde el 9 al 11 Lugar: La plata",
   },
 ];
 

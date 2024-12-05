@@ -25,7 +25,7 @@ export function InformationActivities(
                     alt='image-card' />
             </figure>
             <div className='flex flex-col w-full justify-center gap-2 items-center'>
-                    <span className='m-[-2px] font-roboto font-medium text-[20px] text-center text-gray-600'>{title}</span>
+                    <span className='m-[-2px] font-roboto font-medium text-[17px] text-center text-gray-600'>{title}</span>
                     <p className='text-[14px] w-[130px] font-roboto font-light text-description text-center'>{description}</p>
             </div>
         </div>
