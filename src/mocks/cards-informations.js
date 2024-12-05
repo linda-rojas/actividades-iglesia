@@ -31,7 +31,7 @@ export const CardsInformationNationalActivities = [
     title: "Convención cali",
     description:
       "¡Únete a nosotros del 15 al 18 de Enero!. Dirección: calle 10#36-124 arroyohondo 👉 haz clic",
-    to: "https://www.google.com/maps/dir/2.3958466,-75.8882503/3.3820813,-76.5435791/@2.8888171,-76.9480095,9z/am=t/data=!3m1!4b1!4m4!4m3!1m1!4e1!1m0?entry=ttu&g_ep=EgoyMDI0MTIwMy4wIKXMDSoASAFQAw%3D%3D",
+    to: "https://www.google.com/maps/dir/?api=1&destination=3.3820813,-76.5435791",
   },
 ];
 
