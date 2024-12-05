@@ -19,17 +19,19 @@ export function Home() {
                     <div className='text-[25px]'>
                         <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>EVENTOS</h1>
                         <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>DICIEMBRE</h1>
-                        <a href='https://www.facebook.com/MMM.zona.61?locale=es_LA' className='flex gap-[4px] justify-center'>
+                        <a href='https://www.facebook.com/MMM.zona.61?locale=es_LA' className='flex gap-[4px] justify-center items-center'>
                             <p className='font-roboto font-medium text-[11px] text-gray-500'>Sigue nuestras novedades
                             </p>
                             {/* <ArrowLongRightIcon className='w-[18px] h-[18px] text-gray-500' stroke='currentColor'/> */}
-                            <div className='flex items-center justify-center h-[14px]'>
-                                <p className='text-[10px]'>👉</p>
+                            <div className='flex items-center justify-center h-[20px]'>
+                                <p className='text-[12px] mb-[8px]'>👉</p>
                             </div>
-                            <img 
+                            <figure className='h-[25px] w-[25px]'>
+                                <img 
                                     src={DiosTuRazonDeVivir}
-                                    className='h-[20px] w-[20px]'
+                                    className='h-full w-full'
                                     alt='Dios tu razón de vivir' />
+                            </figure>
                         </a>
                         
                     </div>
