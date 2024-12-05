@@ -9,7 +9,7 @@ export const Sector5 = () => {
 
     return (
         <div>
-            <header className='h-[50px] bg-[#3e8cf2] flex gap-[8rem] items-center w-full select-none'>
+            <header className='s:h-[65px] bg-[#3e8cf2] flex xs:gap-[7rem] s:gap-[8rem] items-center w-full select-none'>
                 <Link to={sectors}>
                     <article className='flex ml-5'>
                         <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>

@@ -9,8 +9,8 @@ export function InformationSector(
     description,
 }) {
     return (
-        <div className='max-w-[270px] min-h-[40px] w-full flex bg-white shadow-slate-700 shadow-md'>
-            <div className='min-w-[50px] bg-green-800 text-white items-center justify-center flex flex-col '>
+        <div className='max-w-[270px] min-h-[40px] w-full flex bg-white shadow-slate-700 shadow-md rounded-[0.4rem]'>
+            <div className='min-w-[50px] bg-green-800 text-white items-center justify-center flex flex-col rounded-l-[0.4rem]'>
                 <span className='text-[10px]'>{day}</span>
                 <p className='text-[13px]'>{num}</p>
             </div>

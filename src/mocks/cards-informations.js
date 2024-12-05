@@ -73,13 +73,6 @@ export const CardsInformationCurch = [
     to: "/ListToilet",
   },
   {
-    imageName: "cultos-sectores",
-    title: "Cultos en sectores",
-    description:
-      "Revisa los horarios y lugares que se realizará culto en los sectores",
-    button: "Ver más",
-  },
-  {
     imageName: "evangelismo",
     title: "Evangelísmos",
     description: "Descubre y sé parte de nuestros cultos",
@@ -185,7 +178,7 @@ export const CardInformationSector1 = [
   {
     day: "Viernes",
     num: "6",
-    description: "Vijilia en el salado",
+    description: "Vigilia en el salado",
   },
   {
     day: "Sabado",
@@ -343,7 +336,7 @@ export const CardInformationSector3 = [
   {
     day: "Viernes",
     num: "6",
-    description: "Vijilia en el salado",
+    description: "Vigilia en el salado",
   },
   {
     day: "Sabado",
@@ -501,7 +494,7 @@ export const CardInformationSector4 = [
   {
     day: "Viernes",
     num: "6",
-    description: "Vijilia en el salado",
+    description: "Vigilia en el salado",
   },
   {
     day: "Sabado",
@@ -659,7 +652,7 @@ export const CardInformationSector5 = [
   {
     day: "Viernes",
     num: "6",
-    description: "Vijilia en el salado",
+    description: "Vigilia en el salado",
   },
   {
     day: "Sabado",
@@ -817,7 +810,7 @@ export const CardInformationAltoSanIsidro = [
   {
     day: "Viernes",
     num: "6",
-    description: "Vijilia en el salado",
+    description: "Vigilia en el salado",
   },
   {
     day: "Sabado",

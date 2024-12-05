@@ -9,13 +9,13 @@ export const AltoSanIsidro = () => {
 
     return (
         <div>
-            <header className='h-[50px] bg-[#3e8cf2] flex gap-[8rem] items-center w-full select-none'>
+            <header className='s:h-[65px] bg-[#3e8cf2] flex xs:gap-[5rem] s:gap-[6rem] items-center w-full select-none'>
                 <Link to={sectors}>
                     <article className='flex ml-5'>
                         <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
                     </article>
                 </Link>
-                <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Sector #5</h1>
+                <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Alto San Isidro</h1>
             </header>
             <section className='relative top-[3rem] mb-[5rem] flex flex-wrap flex-col items-center lg:flex-row gap-3 select-none'>
             { CardInformationAltoSanIsidro.map( information => (
