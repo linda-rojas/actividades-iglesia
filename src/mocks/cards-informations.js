@@ -77,41 +77,20 @@ export const CardsInformationCurch = [
     title: "EBICOL",
     description: "¡ver eventos ebicol de este mes! haz clic",
     button: "Ver más",
+    to: "/ListEBICOL",
   },
   {
     imageName: "icam",
     title: "ICAM",
     description: "Mira que eventos icam tienes este mes",
     button: "Ver más",
+    to: "/ListICAM",
   },
   {
     imageName: "juvic",
     title: "JUVIC",
     description: "Descubre como Dios te tiene preparado algo especial",
     button: "Ver más",
-  },
-];
-
-export const CardActivitiesToilet = [
-  {
-    date: "4",
-    family: "ROJAS MANQUILLO",
-    tel: "318-718-3986",
-  },
-  {
-    date: "11",
-    family: "LULIGO FIOLE",
-    tel: "310-879-1063",
-  },
-  {
-    date: "18",
-    family: "JOVENES",
-    tel: "",
-  },
-  {
-    date: "25",
-    family: "FERNANDEZ GUTIERRES",
-    tel: "321-438-0483",
   },
 ];
 
@@ -1184,5 +1163,28 @@ export const CardsInformationListKitchen = [
     date1Text: "HNA LAURA Y HNA DENIS",
     date2Text: "HNA ARGENIS",
     date3Text: "HNA LUZ ANGELA Y HNA ELENA",
+  },
+];
+
+export const CardActivitiesToilet = [
+  {
+    date: "4",
+    family: "ROJAS MANQUILLO",
+    tel: "318-718-3986",
+  },
+  {
+    date: "11",
+    family: "LULIGO FIOLE",
+    tel: "310-879-1063",
+  },
+  {
+    date: "18",
+    family: "JOVENES",
+    tel: "",
+  },
+  {
+    date: "25",
+    family: "FERNANDEZ GUTIERRES",
+    tel: "321-438-0483",
   },
 ];

@@ -14,6 +14,8 @@ import { AltoSanIsidro } from './components/pages/routes/Sectors/ListCalendarInf
 import { ListUshers } from './components/pages/routes/ListUshers';
 import { ListKitchen } from './components/pages/routes/ActivitiesKitchen';
 import { Sector2 } from './components/pages/routes/Sectors/ListCalendarInformative/Sector2';
+import { ListEBICOL } from './components/pages/routes/ActivitiesEBICOL';
+import { ListICAM } from './components/pages/routes/ActivitiesICAM';
 
 
 
@@ -26,7 +28,6 @@ function App() {
         <Route path="/NationalActivities" element={<NationalActivities />} />
         <Route path="/ActivitiesArea" element={<ActivitiesArea />} />
         <Route path="/ActivitiesCurch" element={<ActivitiesCurch />} />
-        <Route path="/ListToilet" element={<ListToilet/>} />
         <Route path="/Sectors" element={<Sectors/>} />
         <Route path="/Sector1" element={<Sector1/>} />
         <Route path="/Sector2" element={<Sector2/>} />
@@ -36,6 +37,9 @@ function App() {
         <Route path="/AltoSanIsidro" element={<AltoSanIsidro/>} />
         <Route path="/ListUshers" element={<ListUshers/>} />
         <Route path="/ListKitchen" element={<ListKitchen/>} />
+        <Route path="/ListToilet" element={<ListToilet/>} />
+        <Route path="/ListEBICOL" element={<ListEBICOL/>} />
+        <Route path="/ListICAM" element={<ListICAM/>} />
       </Routes>
     </HashRouter>
   )
