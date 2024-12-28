@@ -1,7 +1,7 @@
 export const CardsInformationHome = [
   {
     imageName: "actividadesNacionales",
-    title: "Actividades Nacionales",
+    title: "Eventos Nacionales",
     description:
       "Únete a la familia de la fé en todo el país y conoce nuestros eventos",
     button: "conoce más",
