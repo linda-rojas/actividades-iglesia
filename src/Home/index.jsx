@@ -16,7 +16,7 @@ export function Home() {
                 <figure className='w-full h-[94px] fondo'>
                     <img src={Lema} alt='Lema-generaciones' className='w-full h-full object-cover' />
                 </figure>
-                <section className='flex flex-col items-center gap-2'>
+                <section className='flex flex-col items-center gap-3'>
                     <div className='text-[25px] pt-8'>
                         <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>AGENDA DE</h1>
                         <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>ENERO</h1> 
