@@ -8,7 +8,7 @@ export const ActivitiesArea = () => {
 
     return (
         <div>
-            <header className='s:h-[65px] bg-[#3e8cf2] flex xs:gap-[3.5rem] s:gap-[5rem] items-center w-full select-none'>
+            <header className='s:h-[65px] bg-blue-700 flex xs:gap-[3.5rem] s:gap-[5rem] items-center w-full select-none'>
                 <Link to={home}>
                     <article className='flex ml-5'>
                         <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>

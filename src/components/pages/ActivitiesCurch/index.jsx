@@ -9,7 +9,7 @@ export const ActivitiesCurch = () => {
     const home = '/'
     return (
         <div>
-            <header className='xs:gap-[4.5rem] s:h-[65px] bg-[#3e8cf2] flex s:gap-[6rem] items-center w-full'>
+            <header className='xs:gap-[4.5rem] s:h-[65px] bg-blue-700 flex s:gap-[6rem] items-center w-full'>
             <Link to={home}>
                 <article className='flex ml-5'>
                     <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>

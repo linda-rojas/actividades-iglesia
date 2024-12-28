@@ -1,10 +1,10 @@
 import { ChevronLeftIcon } from '@heroicons/react/24/solid'
-import { CardInformationSector1 } from '../../../../../../mocks/cards-informations';
+import { CardInformationSector2 } from '../../../../../../mocks/cards-informations';
 import { Link } from 'react-router-dom';
-import { InformationSector } from './InformationCalendar';
+import { InformationSector } from '../Sector1/InformationCalendar';
 
 
-export const Sector1 = () => {
+export const Sector2 = () => {
     const sectors = '/Sectors'
 
     return (
@@ -15,11 +15,11 @@ export const Sector1 = () => {
                         <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
                     </article>
                 </Link>
-                <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Sector #1</h1>
+                <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Sector #2</h1>
             </header>
             <section className='relative top-[2rem] mb-[5rem] flex flex-wrap flex-col items-center lg:flex-row gap-3 select-none'>
             <h2 className='font-montserrat font-semibold text-[19px] text-gray-500 mb-1'>ENERO</h2>
-            { CardInformationSector1.map( information => (
+            { CardInformationSector2.map( information => (
                     <InformationSector
                         key={information.num}
                         day={information.day}

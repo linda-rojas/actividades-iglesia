@@ -22,22 +22,22 @@ export function ListInformation(
 }) {
     return (
         <>
-            <div className="min-h-[20px] w-[300px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start">
-                <div className='flex justify-around items-center w-full gap-[5px]'>
-                    <p className='text-[11px] flex flex-col justify-start items-center w-[73px]'>{date1}</p>
-                    <p className='text-[11px] flex flex-col justify-start items-center w-[73px]'>{date2}</p>
-                    <p className='text-[11px] flex flex-col justify-start items-center w-[73px]'>{date3}</p>
+            <div className="xs:min-h-[20px] s:min-h-[25px] xs:w-[300px] s:w-[365px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start">
+                <div className='flex justify-around items-center w-full xs:gap-[5px] s:gap-[2px]'>
+                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>{date1}</p>
+                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>{date2}</p>
+                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>{date3}</p>
                 </div>
             </div>
-            <div className='min-h-[50px] w-[300px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start'>
+            <div className='xs:min-h-[50px] s:min-h-[60px] xs:w-[300px] s:w-[365px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start'>
             <div className='flex justify-start items-center w-full gap-[12px]'>
-                    <p className='text-[11px] flex flex-col justify-start items-center'>
+                    <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-start items-center'>
                         <p className="text-center">{date1Text}</p>
                     </p>
-                    <p className='text-[11px] flex flex-col justify-center items-center'>
+                    <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-center items-center'>
                         <p className="text-center ">{date2Text}</p>
                     </p>
-                    <p className='flex flex-col justify-center items-center text-[11px] font-normal'>
+                    <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-center items-center'>
                         <p className="text-center ">{date3Text}</p>
                     </p>
             </div>

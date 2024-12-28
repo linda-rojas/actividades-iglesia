@@ -22,7 +22,7 @@ export function InformationActivities(
                 <img 
                     className='object-cover h-full rounded-l-[0.8rem]'
                     src={imageCard} 
-                    alt='image-card' />
+                    alt='image-card'/>
             </figure>
             <div className='flex flex-col justify-center aling-center'>
                     <span className='font-roboto font-medium xs:text-[18px] s:text-[20px] text-center text-gray-600'>{title}</span>

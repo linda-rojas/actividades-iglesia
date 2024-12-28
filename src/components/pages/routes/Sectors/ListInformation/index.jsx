@@ -10,9 +10,9 @@ export const ListInformation = ({
 }) => {
     return (
         <Link 
-            className={`${classbg} min-h-[40px] w-[210px] flex flex-col justify-center rounded-md`}
+            className={`${classbg} min-h-[45px] w-[210px] flex flex-col justify-center rounded-md`}
             to={to}>
-            <h1 className='text-center font-medium text-[17px] text-white'>{sector}</h1>
+            <h1 className='text-center font-medium text-[20px] text-white'>{sector}</h1>
         </Link>
     )
 }

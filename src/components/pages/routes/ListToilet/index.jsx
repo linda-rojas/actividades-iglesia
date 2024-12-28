@@ -9,7 +9,7 @@ export const ListToilet = () => {
 
     return (
         <div>
-            <header className='s:h-[65px] bg-[#3e8cf2] flex xs:gap-[4rem] s:gap-[5rem] items-center w-full select-none'>
+            <header className='s:h-[65px] bg-blue-700 flex xs:gap-[4rem] s:gap-[5rem] items-center w-full select-none'>
                 <Link to={ActivitiesCurch}>
                     <article className='flex ml-5'>
                         <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
@@ -18,7 +18,7 @@ export const ListToilet = () => {
                 <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Listado de Aseo</h1>
             </header>
             <section className='relative top-[5rem] flex flex-wrap flex-col items-center lg:flex-row select-none'>
-            <div className='h-5 min-w-[270px] flex items-center justify-around text-[13px] text-white bg-green-700'>
+            <div className='xs:h-8 s:h-10 xs:min-w-[300px] s:min-w-[365px] flex items-center justify-around xs:text-[15px] s:text-[18px] font-medium text-white bg-yellow-600'>
                 <span>Sábado</span>
                 <span>Familia</span>
                 <span>Celular</span>

@@ -13,6 +13,7 @@ import { Sector5 } from './components/pages/routes/Sectors/ListCalendarInformati
 import { AltoSanIsidro } from './components/pages/routes/Sectors/ListCalendarInformative/AltoSanIsidro';
 import { ListUshers } from './components/pages/routes/ListUshers';
 import { ListKitchen } from './components/pages/routes/ActivitiesKitchen';
+import { Sector2 } from './components/pages/routes/Sectors/ListCalendarInformative/Sector2';
 
 
 
@@ -28,6 +29,7 @@ function App() {
         <Route path="/ListToilet" element={<ListToilet/>} />
         <Route path="/Sectors" element={<Sectors/>} />
         <Route path="/Sector1" element={<Sector1/>} />
+        <Route path="/Sector2" element={<Sector2/>} />
         <Route path="/Sector3" element={<Sector3/>} />
         <Route path="/Sector4" element={<Sector4/>} />
         <Route path="/Sector5" element={<Sector5/>} />

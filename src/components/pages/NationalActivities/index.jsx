@@ -9,7 +9,7 @@ export const NationalActivities = () => {
 
     return (
         <div>
-            <header className='xs:gap-[2rem] s:h-[65px] bg-[#3e8cf2] flex s:gap-[3rem] items-center w-full select-none'>
+            <header className='xs:gap-[2rem] s:h-[65px] bg-blue-700 flex s:gap-[3rem] items-center w-full select-none'>
             <Link to={home}>
                 <article className='flex ml-5'>
                     <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
