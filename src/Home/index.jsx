@@ -11,18 +11,15 @@ export function Home() {
 
 
     return (
-        <div className='flex flex-col items-center justify-between min-h-screen gap-11 select-none'>
+        <div className='flex flex-col items-center justify-between min-h-screen gap-6 select-none'>
             <div className='flex flex-col items-center w-full'>
                 <figure className='w-full h-[94px] fondo'>
                     <img src={Lema} alt='Lema-armonia' className='w-full h-full object-cover' />
                 </figure>
                 <section className='flex flex-col items-center gap-2'>
-                    <div className='text-[25px] pt-4'>
+                    <div className='text-[25px] pt-5'>
                         <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>AGENDA DE</h1>
-                        <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>ENERO</h1>
-                        
-                        
-                        
+                        <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>ENERO</h1> 
                     </div>
                     <p className='font-roboto font-medium text-sm text-gray-500'>¿Qué evento te gustaría explorar?</p>
                 </section>    
