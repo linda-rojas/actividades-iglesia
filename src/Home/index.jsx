@@ -14,7 +14,7 @@ export function Home() {
         <div className='flex flex-col items-center justify-between min-h-screen gap-2 select-none'>
             <div className='flex flex-col items-center w-full'>
                 <figure className='w-full h-[94px] fondo'>
-                    <img src={Lema} alt='Lema-armonia' className='w-full h-full object-cover' />
+                    <img src={Lema} alt='Lema-generaciones' className='w-full h-full object-cover' />
                 </figure>
                 <section className='flex flex-col items-center gap-2'>
                     <div className='text-[25px] pt-5'>
