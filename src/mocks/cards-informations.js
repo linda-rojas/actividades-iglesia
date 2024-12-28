@@ -3,7 +3,7 @@ export const CardsInformationHome = [
     imageName: "actividadesNacionales",
     title: "Eventos Nacionales",
     description:
-      "Únete a la familia de la fé en todo el país y conoce nuestros eventos",
+      "Únete a la familia de la fé en todo el país y conoce nuestros eventos nacionales",
     button: "conoce más",
     to: "/NationalActivities",
   },
