@@ -30,7 +30,7 @@ export function InformationActivities(
                     <span className='xs:text-[15px] s:text-[20px] font-roboto font-medium text-center self-center text-gray-600 w-[90%]'>{title}</span>
                     <p className='xs:text-[11px] font-roboto font-light s:text-[14px] text-center pl-[3px] pr-[3px]'>{description}</p>
                     <Link to={to}>
-                        <button className='bg-custom-yellow hover:bg-green-600 flex justify-center  xs:mt-[5px] font-normal w-20 h-4 rounded-full ml-2 text-white text-xs '><span className='m-[-1px]'>{button}</span></button>
+                        <button className='bg-custom-yellow hover:bg-green-600 flex justify-center  xs:mt-[2px] w-20 h-4 rounded-full ml-2 text-white text-xs '><span className='m-[-1px]'>{button}</span></button>
                     </Link>
 
             </div>
