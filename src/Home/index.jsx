@@ -11,7 +11,7 @@ export function Home() {
 
 
     return (
-        <div className='flex flex-col items-center justify-between min-h-screen gap-6 select-none'>
+        <div className='flex flex-col items-center justify-between min-h-screen gap-2 select-none'>
             <div className='flex flex-col items-center w-full'>
                 <figure className='w-full h-[94px] fondo'>
                     <img src={Lema} alt='Lema-armonia' className='w-full h-full object-cover' />
