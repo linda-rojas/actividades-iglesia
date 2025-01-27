@@ -11,7 +11,7 @@ export const CardsInformationHome = [
     imageName: "zona",
     title: "Eventos zona 61",
     description:
-      "¡Descubre lo que Dios está haciendo en nuestra zona! Explora nuestras actividades y eventos",
+      "¡Descubre lo que Dios está haciendo en nuestra zona! Explora nuestras actividades",
     button: "conoce más",
     to: "/ActivitiesArea",
   },
@@ -25,15 +25,7 @@ export const CardsInformationHome = [
   },
 ];
 
-export const CardsInformationNationalActivities = [
-  {
-    imageName: "convencion",
-    title: "Convención cali",
-    description:
-      "¡Únete a nosotros del 15 al 18 de Enero!. Dirección: calle 10#36-124 arroyohondo 👉 haz clic",
-    to: "https://www.google.com/maps/dir/?api=1&destination=Calle+10+%2336+-+124+Arroyohondo+Yumbo",
-  },
-];
+export const CardsInformationNationalActivities = [];
 
 export const CardsInformationAreaEvents = [];
 
@@ -281,7 +273,7 @@ export const CardInformationSector1 = [
   {
     day: "Viernes",
     num: "31",
-    description: "",
+    description: "Damas oración de 7-9 PM En el templo",
   },
 ];
 
@@ -439,7 +431,7 @@ export const CardInformationSector2 = [
   {
     day: "Viernes",
     num: "31",
-    description: "",
+    description: "Damas oración de 7-9 PM En el templo",
   },
 ];
 
@@ -598,7 +590,8 @@ export const CardInformationSector3 = [
   {
     day: "Viernes",
     num: "31",
-    description: "Culto al aire libre 7:00 PM",
+    description:
+      "Culto al aire libre 7:00 PM - Damas oracion de 7-9 PM En el templo",
   },
 ];
 
@@ -756,7 +749,7 @@ export const CardInformationSector4 = [
   {
     day: "Viernes",
     num: "31",
-    description: "Ayuno del sector",
+    description: "Ayuno del sector - Damas oración 7-9 En el templo",
   },
 ];
 
@@ -914,7 +907,7 @@ export const CardInformationSector5 = [
   {
     day: "Viernes",
     num: "31",
-    description: "",
+    description: "Damas oracion 7-9 PM En el templo",
   },
 ];
 
@@ -1072,7 +1065,7 @@ export const CardInformationAltoSanIsidro = [
   {
     day: "Viernes",
     num: "31",
-    description: "",
+    description: "Damas oracion 7-9 PM en el templo",
   },
 ];
 

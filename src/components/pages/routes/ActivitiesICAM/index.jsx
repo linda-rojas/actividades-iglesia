@@ -1,10 +1,12 @@
 import { ChevronLeftIcon } from '@heroicons/react/24/solid'
 import { Link } from 'react-router-dom';
 
+// import { CardsInformationICAM } from '../../../../mocks/cards-informations';
+// import { CardsInformativeActivities } from './CardsInformativeActivities';
+
 
 export const ListICAM = () => {
     const ActivitiesCurch = '/ActivitiesCurch'
-    const FondoEBICOL = `/assets/img/icam-informative.jpg`;
 
     return (
         <div>
@@ -21,16 +23,16 @@ export const ListICAM = () => {
                     <span className='text-yellow-300'>M</span>
                     </h1>
             </header>
-            <section className='h-[200px] mt-20'>
-                <figure className='flex justify-center'>
-                    <img src={FondoEBICOL} alt='Fondo_EBICOL' />
-                </figure>
-                <article className='bg-[#271562] justify-center items-center flex flex-col h-28 text-center text-[#41F2F2] xs:text-[15px] s:text-[18px] font-montserrat font-semibold'>
-                    <section>Las clases de escuela dominical inician:</section>
-                    <section>El 26 de Enero</section>
-                    <section>¡Te esperamos!</section>
-                </article>
-            </section>
+            {/* <section className='relative top-[3rem] select-none mb-[5rem] flex flex-wrap flex-col items-center lg:flex-row gap-8'>
+                        { CardsInformationICAM.map( information => (
+                                <CardsInformativeActivities
+                                    key={information.title}
+                                    imageName={information.imageName}
+                                    title={information.title}
+                                    description={information.description}
+                                    />
+                            ))}
+            </section> */}
         </div>
     )
 }

@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 
 export const ListEBICOL = () => {
     const ActivitiesCurch = '/ActivitiesCurch'
-    const FondoEBICOL = `/assets/img/ebicol-informative.jpg`;
 
     return (
         <div>
@@ -23,16 +22,7 @@ export const ListEBICOL = () => {
                     <span className='text-orange-600'>L</span>
                     </h1>
             </header>
-            <section className='h-[200px] mt-20 bg-black'>
-                <figure className='flex justify-center'>
-                    <img src={FondoEBICOL} alt='Fondo_EBICOL' />
-                </figure>
-                <article className='bg-black justify-center items-center flex flex-col h-28 text-center text-white xs:text-[15px] s:text-[18px] font-montserrat font-semibold'>
-                    <section>Las clases de escuela dominical inician:</section>
-                    <section>El 26 de Enero</section>
-                    <section>¡Te esperamos!</section>
-                </article>
-            </section>
+
         </div>
     )
 }
