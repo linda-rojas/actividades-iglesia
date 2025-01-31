@@ -999,41 +999,6 @@ export const CardInformationAltoSanIsidro = [
   },
 ];
 
-export const CardsInformationListKitchen = [
-  {
-    date1: "1",
-    date2: "2",
-    date3: "6",
-    date1Text: "MAESTRAS ESCUELA D.",
-    date2Text: "HNA MERLY Y HNA EDNA",
-    date3Text: "HNA LAURA Y HNA DENIS",
-  },
-  {
-    date1: "8",
-    date2: "9",
-    date3: "13",
-    date1Text: "GRUPO C. MISIONERO",
-    date3Text: "GRUPO C. MISIONERO",
-    date2Text: "HNA ARGENIS",
-  },
-  {
-    date1: "15",
-    date2: "16",
-    date3: "20",
-    date1Text: "HNA ANREA Y HNA ADELA",
-    date2Text: "HNA LUZ DARY Y HNA FLOR",
-    date3Text: "HNO YONEFER Y ESPOSA",
-  },
-  {
-    date1: "22",
-    date2: "23",
-    date3: "",
-    date1Text: "GRUPO ALABANZA",
-    date2Text: "GRUPO ALABANZA",
-    date3Text: "..............................",
-  },
-];
-
 export const CardActivitiesToilet = [
   {
     date: "1",
