@@ -31,6 +31,10 @@ export const ListToilet = () => {
                         tel={information.tel} />
                 ))}
             </section>
+            <div className='relative top-[8rem] flex flex-col pl-3 pr-3 gap-3 text-center'>
+            <h2 className='text-gray-500 font-medium'>Y TODO LO QUE HACÉIS, SEA DE PALABRA O DE HECHO, HACEDLO TODO EN EL NOMRE DEL SEÑOR JESÚS, DANDO GRASIAS A DIOS PADRE POR MEDIO DE EL.</h2>
+            <span className='text-gray-500 font-medium'>COLOSENSES 3:17</span>
+            </div>
         </div>
     )
 }

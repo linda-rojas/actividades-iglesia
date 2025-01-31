@@ -15,7 +15,7 @@ export const NationalActivities = () => {
                     <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
                 </article>
             </Link>
-                <h1 className='text-center font-roboto font-semibold xs:text-[21px] s:text-[24px] text-white'>Actividades Nacionales</h1>
+                <h1 className='text-center font-roboto font-semibold xs:text-[21px] s:text-[27px] text-white'>Actividades Nacionales</h1>
             </header>
             <section className='relative mt-[4rem] flex flex-wrap flex-col items-center gap-8 select-none'>
             { CardsInformationNationalActivities.map( information => (

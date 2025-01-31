@@ -1,11 +1,11 @@
 import { ChevronLeftIcon } from '@heroicons/react/24/solid'
 import { Link } from 'react-router-dom';
 
-import { CardsActivitiesICAM } from '../../../../mocks/cards-informations';
+import { CardsActivitiesJUVIC } from '../../../../mocks/cards-informations';
 import { CardsInformativeActivities } from './CardsInformativeActivities';
 
 
-export const ListICAM = () => {
+export const ListJUVIC = () => {
     const ActivitiesCurch = '/ActivitiesCurch'
 
     return (
@@ -17,14 +17,15 @@ export const ListICAM = () => {
                     </article>
                 </Link>
                 <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Actividades 
-                    <span className='text-yellow-300 pl-3'>I</span>
-                    <span className='text-yellow-300'>C</span>
-                    <span className='text-yellow-300'>A</span>
-                    <span className='text-yellow-300'>M</span>
+                    <span className='text-purple-400 pl-3'>J</span>
+                    <span className='text-purple-400'>U</span>
+                    <span className='text-purple-400'>V</span>
+                    <span className='text-purple-400'>I</span>
+                    <span className='text-purple-400'>C</span>
                     </h1>
             </header>
             <section className='relative top-[3rem] select-none mb-[5rem] flex flex-wrap flex-col items-center lg:flex-row gap-8'>
-                        { CardsActivitiesICAM.map( information => (
+                        { CardsActivitiesJUVIC.map( information => (
                                 <CardsInformativeActivities
                                     key={information.title}
                                     imageName={information.imageName}

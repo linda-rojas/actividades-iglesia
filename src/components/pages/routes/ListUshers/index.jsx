@@ -32,6 +32,10 @@ export const ListUshers = () => {
             </div>
                 <ListInformation/>
             </section>
+            <div className='relative top-[8rem] ml-3 mr-3 text-center flex flex-col gap-4'>
+                <p className='text-gray-600'>“Servid a Jehová con alegría; Venid ante su presencia con regocijo”. <span className='font-semibold text-gray-500'>SALMOS 100-2</span></p>
+                <p className='text-gray-600'>Jamás será en vano el trabajo que hacemos, si lo hacemos de corazón para El Señor.</p>
+            </div>
         </div>
     )
 }

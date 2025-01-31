@@ -16,6 +16,10 @@ import { ListKitchen } from './components/pages/routes/ActivitiesKitchen';
 import { Sector2 } from './components/pages/routes/Sectors/ListCalendarInformative/Sector2';
 import { ListEBICOL } from './components/pages/routes/ActivitiesEBICOL';
 import { ListICAM } from './components/pages/routes/ActivitiesICAM';
+import { ListJUVIC } from './components/pages/routes/ActivitiesJUVIC';
+import { ListComunicaciones } from './components/pages/routes/ActivitiesComunicaciones';
+import { ListVisitasAncianos } from './components/pages/routes/ActividadesVisitasAncianos';
+import { ListPraise } from './components/pages/routes/ActivitiesPraise';
 
 
 
@@ -40,6 +44,10 @@ function App() {
         <Route path="/ListToilet" element={<ListToilet/>} />
         <Route path="/ListEBICOL" element={<ListEBICOL/>} />
         <Route path="/ListICAM" element={<ListICAM/>} />
+        <Route path="/ListJUVIC" element={<ListJUVIC/>} />
+        <Route path="/ListComunicaciones" element={<ListComunicaciones/>} />
+        <Route path="/ListVisitasAncianos" element={<ListVisitasAncianos/>} />
+        <Route path="/ListPraise" element={<ListPraise/>} />
       </Routes>
     </HashRouter>
   )

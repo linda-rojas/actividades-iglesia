@@ -14,7 +14,7 @@ export const ActivitiesArea = () => {
                         <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
                     </article>
                 </Link>
-                <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Eventos zona 61</h1>
+                <h1 className='text-center font-roboto font-semibold text-[27px] text-white'>Eventos zona 61</h1>
             </header>
             <section className='container-cards flex flex-wrap flex-col items-center mt-[4rem] lg:flex-row gap-8 select-none'>
             { CardsInformationAreaEvents.map( information => (
