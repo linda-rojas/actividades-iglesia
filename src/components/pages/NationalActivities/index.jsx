@@ -17,7 +17,7 @@ export const NationalActivities = () => {
             </Link>
                 <h1 className='text-center font-roboto font-semibold xs:text-[21px] s:text-[27px] text-white'>Actividades Nacionales</h1>
             </header>
-            <section className='relative mt-[4rem] flex flex-wrap flex-col items-center gap-8 select-none'>
+            <section className='relative mt-[4rem] mb-[4rem] flex flex-wrap flex-col items-center gap-8 select-none'>
             { CardsInformationNationalActivities.map( information => (
                     <InformationActivities
                         key={information.title}
