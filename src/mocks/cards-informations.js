@@ -64,76 +64,79 @@ export const CardsInformationAreaEvents = [];
 
 export const CardsInformationCurch = [
   {
-    imageName: "planilla",
+    imageName: "https://umad.edu.mx/wp-content/uploads/2018/01/agenda.jpg",
     title: "Planillas de líderes",
     description: "Líderes que sirven con pasión y dedicación",
     button: "Ver más",
     to: "/Sectors",
   },
   {
-    imageName: "ujieres",
+    imageName:
+      "https://st2.depositphotos.com/1559686/7238/i/450/depositphotos_72388371-stock-photo-shaking-hands.jpg",
     title: "Listado de ujieres",
     description: "Verifica si estás incluido en nuestro listado de ujieres",
     button: "Ver más",
     to: "/ListUshers",
   },
   {
-    imageName: "alabanza",
+    imageName:
+      "https://www.shutterstock.com/image-photo/christian-prayer-group-bible-by-600nw-1990345949.jpg",
     title: "Grupo de Alabanza",
     description: "¡no te pierdas los compromisos de este mes!",
     button: "Ver más",
     to: "/ListPraise",
   },
   {
-    imageName: "cocina",
+    imageName:
+      "https://cheforopeza.com.mx/wp-content/uploads/2017/08/cocinando-en-casa-con-tus-amigos__contenido-2_blog_chef-oropeza.jpg",
     title: "Actividades cocina",
     description: "¡Conoce quién está a cargo de la cocina este mes!",
     button: "Ver más",
     to: "/ListKitchen",
   },
   {
-    imageName: "aseo",
+    imageName:
+      "https://comerciante.lacuarta.com/wp-content/uploads/2022/10/Tema-01-Aseo-ok.jpg",
     title: "Listado de aseo",
     description: "¿Quién esta a cargo del aseo este mes?",
     button: "Ver más",
     to: "/ListToilet",
   },
-  // {
-  //   imageName: "evangelismo",
-  //   title: "Evangelísmos",
-  //   description: "Descubre y sé parte de nuestros cultos",
-  //   button: "Ver más",
-  // },
   {
-    imageName: "ebicol",
+    imageName:
+      "https://yt3.googleusercontent.com/6naU0wPxWIVF1dqfuNp-7U-TN9lK1EkLbb1oXxLoX8UiQ_IVfyB4HpAyZtmwLQlrMDPlRDbzJw=s900-c-k-c0x00ffffff-no-rj",
     title: "EBICOL",
     description: "¡ver eventos ebicol de este mes! haz clic",
     button: "Ver más",
     to: "/ListEBICOL",
   },
   {
-    imageName: "icam",
+    imageName:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCOhy6vxziihO1Qjp643Dym1UG1N8FTt0G8g&s",
     title: "ICAM",
     description: "Mira que eventos icam tienes este mes",
     button: "Ver más",
     to: "/ListICAM",
   },
   {
-    imageName: "juvic",
+    imageName:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvch2EJeop8akubRpBWUQr304R6c3bO2PVmA&s",
     title: "JUVIC",
     description: "Descubre como Dios te tiene preparado algo especial",
     button: "Ver más",
     to: "/ListJUVIC",
   },
   {
-    imageName: "comunicaciones",
+    imageName:
+      "https://files.adventistas.org/noticias/es/2022/04/11173120/FP2pKg9XMAMk6fS-960x540.jpg",
     title: "Comunicaciones",
     description: "Conoce los eventos para este mes",
     button: "Ver más",
     to: "/ListComunicaciones",
   },
   {
-    imageName: "visitas_ancianos",
+    imageName:
+      "https://img.freepik.com/fotos-premium/anciano-leyendo-santa-biblia-casa_144962-14599.jpg",
     title: "Visitas a Ancianos",
     description: "Únete a nosotros en nuestras visitas semanales",
     button: "Ver más",

@@ -15,7 +15,7 @@ export function CardsInformativeActivities(
     to 
 }) {
 
-    const imageCard = `/assets/img/${imageName}.jpg`
+    // const imageCard = `/assets/img/${imageName}.jpg`
     
     
     return (
@@ -23,7 +23,7 @@ export function CardsInformativeActivities(
             <figure className='w-[230px]'>
                 <img 
                     className='object-cover min-h-[120px] rounded-l-[0.8rem]'
-                    src={imageCard} 
+                    src={imageName} 
                     alt='image-card' />
             </figure>
             <div className='flex flex-col w-full justify-center items-center s:gap-[3px]'>
