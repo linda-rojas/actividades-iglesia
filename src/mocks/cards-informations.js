@@ -28,7 +28,7 @@ export const CardsInformationHome = [
 export const CardsInformationNationalActivities = [
   {
     imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/468051922_17975898632790212_4872379690259937065_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE2WbShyYDReKvfGW0lcY4HH1-RkVzKQcMfX5GRXMpBw0OWRPlv133a5n1wjc0bU81FhMXaIhSB_FUVdNOfTrY1&_nc_ohc=XvnF3HF73CUQ7kNvgHaa6v7&_nc_oc=AdjQC-WJKXUB27WWhFA1p8DkdbZfWbbaVhaKaiV9evnJRU2kIODWJADW-V59sWxsyXM&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AOr97nFnSSVZ0JdshDFxhC6&oh=00_AYCUtFSJUYjwu1inDOxk5iDjF4U7t32yBV-RTxItQoDzjg&oe=67AE88CB",
+      "https://mmmoficial.org/mo_includes/img/galerias/primera-confraternidad-de-damas-de-la-zona-3-del-mmm-del-ecuador_mmmoficial_2019-09-23-11-28-50_3084.jpg",
     title: "Convención de Damas",
     description:
       "Ven a disfrutar de esta gloriosa convención 12-14 de abril en pitalito huila 👉 haz click para ver ubicación",
@@ -36,13 +36,13 @@ export const CardsInformationNationalActivities = [
   },
   {
     imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/420098992_365134392932935_4293388791307414224_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHBaqIl5qebZqBNpXU2xsgkJTNUGghbCdQlM1QaCFsJ1MD_DttmicRQV_yfeSHo1GOu2e1edL1HoD9EC5RGU5Qq&_nc_ohc=uY0VQ37WGmAQ7kNvgGdJgN5&_nc_oc=AdhXAe4ZI5M8I4dYCx6wtO4671ViRh-77rrGkOFbszShthRqSfYkzLujFLiaDHQaAGo&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AjjHhbATrd7YDirJMIAg5sU&oh=00_AYDCUrFleNwldlnmL8JSJTz7WSeNYERfIEwicEZ6Fc2aJw&oe=67AE9B04",
+      "https://mmmoficial.org/mo_includes/img/publicacion/mmmoficial-mes_mmmoficial_2023-02-08-17-57-27_3072.png",
     title: "Convención de Jóvenes",
     description: "Haz parte de está magna convención Junio 24 - 26 Medellín",
   },
   {
     imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/464331436_552137860899253_6274232082859720235_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHdI5bJ5oyAv9Heq0l_kwGw_uYWLRGIkd7-5hYtEYiR3pcf7vGclva8UtHRCayBSy2b6cfK_rRmBnSU2Gj7krNv&_nc_ohc=usRpknl1DBUQ7kNvgGtu5iD&_nc_oc=AdgcLhhjv7Auw5VerXDJBmQRxmWhoO6eycpJ_njDgGvxx7-99D2MqbHMVQD01oe-DTI&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=ATqG11MpaAw8_7SRvutj_YF&oh=00_AYCYE0mTvpkBe9lOoGKikAF58_bEnV37J7VOewH6vfhuig&oe=67AEA159",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTmxG8plwZQqE4sisu98miz3qBHHgVvnfAqmVzBLhgZw3UEKbxaY8pox4iyu206u3c_8&usqp=CAU",
     title: "Congreso Africano",
     description: "Agosto 6-10 congreso africano, Guinea Ecuatorial",
   },
@@ -54,7 +54,7 @@ export const CardsInformationNationalActivities = [
   },
   {
     imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/462761580_542096745236698_3485617244895156249_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGkZpxRoaW-Qx4mhJtyuvYu9A3M29JTt7T0Dczb0lO3tEGrw54pAM4XLZmcr-tOc9qdKibPKphF49y9Ba5DAqJU&_nc_ohc=WtizlDxAi-EQ7kNvgGakSxQ&_nc_oc=Adisq106gqzdUnGZGth-SLtxalTdERZpK1PchktjbUvklE-Ed63SfB4uzM0h3gtdw6c&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=ACL68xb_MGc6HAAtAB1jDAn&oh=00_AYC6Gj8Bx5pcH_oftbjWcyGQiqjey6op17fMt9ljkqct4A&oe=67AE70D4",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR5MhC3dWth9RuqracB4n29NDwePPEN4TRbw&s",
     title: "Convención Familias Pastorales",
     description: " Octubre 1 - 4 convención de familias pastorales. Bogotá",
   },
