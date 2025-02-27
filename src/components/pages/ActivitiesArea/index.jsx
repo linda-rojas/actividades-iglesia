@@ -16,7 +16,7 @@ export const ActivitiesArea = () => {
                 </Link>
                 <h1 className='text-center font-roboto font-semibold text-[27px] text-white'>Eventos zona 61</h1>
             </header>
-            <section className='container-cards flex flex-wrap flex-col items-center mt-[4rem]  mb-[4rem] flex-row gap-8 select-none'>
+            <section className='container-cards flex flex-wrap flex-col items-center mt-[4rem]  mb-[4rem] gap-8 select-none'>
             { CardsInformationAreaEvents.map( information => (
                     <InformationActivities
                         key={information.title}

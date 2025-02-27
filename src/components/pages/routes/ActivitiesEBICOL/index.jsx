@@ -1,5 +1,7 @@
 import { ChevronLeftIcon } from '@heroicons/react/24/solid'
 import { Link } from 'react-router-dom';
+import { CardsActivitiesEBICOL } from '../../../../mocks/cards-informations';
+import { CardsInformativeActivities } from './CardsInformativeActivities';
 
 
 export const ListEBICOL = () => {
@@ -22,7 +24,16 @@ export const ListEBICOL = () => {
                     <span className='text-orange-600'>L</span>
                     </h1>
             </header>
-
+            <section className='relative top-[3rem] select-none mb-[5rem] flex flex-wrap flex-col items-center lg:flex-row gap-8'>
+                        { CardsActivitiesEBICOL.map( information => (
+                                <CardsInformativeActivities
+                                    key={information.title}
+                                    imageName={information.imageName}
+                                    title={information.title}
+                                    description={information.description}
+                                    />
+                            ))}
+            </section>
         </div>
     )
 }

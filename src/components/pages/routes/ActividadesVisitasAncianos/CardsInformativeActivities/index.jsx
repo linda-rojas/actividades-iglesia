@@ -14,7 +14,7 @@ export function InformationSector(
                 <span className='xs:text-[13px] s:text-[15px] font-medium'>{day}</span>
                 <p className='xs:text-[13px] s:text-[16px] font-medium'>{num}</p>
             </div>
-            <div className='flex flex-col w-full justify-center items-center'>
+            <div className='flex flex-col w-full justify-center items-center pr-[2px] pl-[2px]'>
                     <p className='text-[15px] text-center text-gray-700'>{description}</p>
             </div>
         </div>

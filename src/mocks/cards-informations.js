@@ -1379,15 +1379,35 @@ export const CardsActivitiesICAM = [
   //   description:
   //     "¡Adolecente de Fé! Únete este domingo 9 para un día de búsqueda de la presencia de Dios",
   // },
+  {
+    imageName: "determinados",
+    title: "Campamento ICAM",
+    description: "Campamento de adolecentes desde el 24 hasta el 26 de Octubre",
+  },
+];
+
+export const CardsActivitiesEBICOL = [
+  {
+    imageName:
+      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/481222764_563051430114247_3463229298657984993_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeELPFW4GI05iFi4mxr0DrpJtHIouVWoqRm0cii5VaipGY8ROfQxdwK9vua3PEXzxh-WqK6JcZuSzsBXlo8gEDa2&_nc_ohc=ropLqoaUwooQ7kNvgGMH-aA&_nc_oc=AdhV1HH7nSye8a3n1Ot6arpDR31bZEZ5vCqK67St3sDFBMaSoEN-fbAOtYkLEJs3028&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=A4J7eYpQpFbS2oIoACV81lg&oh=00_AYAWyZZ0LstY2uo4mwAIcc__Gr7akfQw5HoNDgyBSfHAmQ&oe=67C646A8",
+    title: "Campamento EBICOL",
+    description: "Campamento de niños desde el 14 hasta el 16 de Octubre",
+  },
+  {
+    imageName:
+      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/474048011_537571605995563_383676238610139095_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHJb2gFZv1vt1eoB7Yy6mC6qfhd2ctCSXGp-F3Zy0JJcVu1adL8mIrl2BXnkEv_eVxR7Pd2T3RYi8GhFmAUSeAI&_nc_ohc=MI3bdHewXOsQ7kNvgH30iOq&_nc_oc=AdgCW1DC6fT67w2BzGw03448dokYdH3dIub9zJXY6PBJLRBs8p2cdWGVnG7BHMdOsqQ&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AyrzkxFHVNmd8gbffbTx36m&oh=00_AYC9gXV8DGLPjuRz9IEysOmFyYBzYOOoWdq0H-ZNk_osdQ&oe=67C62AFB",
+    title: "Evangelismo",
+    description:
+      "Prepárate para este maraviloso evangelismo que se realizará el día 7 de Junio",
+  },
 ];
 
 export const CardsActivitiesJUVIC = [
-  // {
-  //   imageName: "juvic_informative",
-  //   title: "AYUNO",
-  //   description:
-  //     "¡Recuerda Joven! Este sábado 1, día de ayuno para conectarte con Dios y renovar tu espíritu",
-  // },
+  {
+    imageName: "juvic_informative",
+    title: "Campamento",
+    description: "Llegada el 17 Abril 8 AM, salida el 19 al medio día",
+  },
 ];
 
 export const CardsActivitiesComunicaciones = [
@@ -1400,24 +1420,29 @@ export const CardsActivitiesComunicaciones = [
 ];
 
 export const CardsActivitiesVisitsToTheElderly = [
-  // {
-  //   day: "Domingo",
-  //   num: "2",
-  //   description: "Día de Ayuno",
-  // },
-  // {
-  //   day: "Miércoles",
-  //   num: "12",
-  //   description: "Visita al hogar del hermano Evigael 5:00 PM",
-  // },
-  // {
-  //   day: "Miércoles",
-  //   num: "19",
-  //   description: "Visita al hogar del hermano Arturo 4:00 PM",
-  // },
-  // {
-  //   day: "Miércoles",
-  //   num: "26",
-  //   description: "Visita en el hogar del hermano Fidel 5:00 PM",
-  // },
+  {
+    day: "Domingo",
+    num: "2",
+    description: "Día de Ayuno",
+  },
+  {
+    day: "Miércoles",
+    num: "5",
+    description: "Visita al hogar del hermano Melco 4:00 PM",
+  },
+  {
+    day: "Viernes",
+    num: "14",
+    description: "Visita al hogar del hermano Obidio 4:00 PM",
+  },
+  {
+    day: "Miércoles",
+    num: "19",
+    description: "Visita en el hogar del hermano Reinaldo 4:00 PM",
+  },
+  {
+    day: "Viernes",
+    num: "28",
+    description: "Visita al hogar de la hermana Luz Estela Mahecha 4:00 PM",
+  },
 ];
