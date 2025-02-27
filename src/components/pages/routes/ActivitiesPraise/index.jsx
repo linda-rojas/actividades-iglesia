@@ -19,7 +19,7 @@ export const ListPraise = () => {
                 <h1 className='text-center font-roboto font-semibold text-[27px] text-white'>Grupo de Alabanza</h1>
             </header>
             <section className='relative top-[3rem] select-none mb-[5rem] flex flex-wrap flex-col items-center lg:flex-row gap-8'>
-                    <h2 className='text-gray-500 text-[20px] font-semibold'>FEBRERO</h2>
+                    <h2 className='text-gray-500 text-[20px] font-semibold'>MARZO</h2>
                         { CardsActivitiesPraiseGroup.map( information => (
                                 <Information
                                     key={information.num}

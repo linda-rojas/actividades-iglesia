@@ -18,7 +18,7 @@ export const Sector1 = () => {
                 <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Sector #1</h1>
             </header>
             <section className='relative top-[2rem] mb-[5rem] flex flex-wrap flex-col items-center lg:flex-row gap-3 select-none'>
-            <h2 className='font-montserrat font-semibold text-[19px] text-gray-500 mb-1'>FEBRERO</h2>
+            <h2 className='font-montserrat font-semibold text-[19px] text-gray-500 mb-1'>MARZO</h2>
             { CardInformationSector1.map( information => (
                     <InformationSector
                         key={information.num}

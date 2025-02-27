@@ -26,7 +26,7 @@ export function InformationActivities(
             </figure>
             <div className='flex flex-col justify-center aling-center'>
                     <span className='font-roboto font-medium xs:text-[18px] s:text-[20px] text-center text-gray-600'>{title}</span>
-                    <p className='font-roboto font-light s:text-[14px] text-center mb-[5px]'>{description}</p>
+                    <p className='font-roboto font-light s:text-[14px] text-center mb-[5px] pl-[5px] pr-[5px]'>{description}</p>
             </div>
         </div>
         </a>

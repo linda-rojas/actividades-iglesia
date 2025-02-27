@@ -19,7 +19,7 @@ export function Home() {
                 <section className='flex flex-col items-center gap-3'>
                     <div className='text-[25px] pt-8'>
                         <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>AGENDA DE</h1>
-                        <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>FEBRERO</h1> 
+                        <h1 className='font-montserrat flex-wrap text-center lg:block text-gray-700 font-extrabold space-y-1'>MARZO</h1> 
                     </div>
                     <p className='font-roboto font-medium text-sm text-gray-500'>¿Qué evento te gustaría explorar?</p>
                 </section>    

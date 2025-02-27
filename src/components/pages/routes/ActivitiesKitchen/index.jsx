@@ -1,5 +1,7 @@
 import { ChevronLeftIcon } from '@heroicons/react/24/solid'
 import { Link } from 'react-router-dom';
+import { CardsInformationListKitchen } from '../../../../mocks/cards-informations';
+import { ListInformation } from './CardsInformativeActivities';
 
 
 export const ListKitchen = () => {
@@ -21,86 +23,20 @@ export const ListKitchen = () => {
                     <span>Sábado </span>
                     <span>Domingo</span>
                 </div>
-                <div className="xs:min-h-[20px] s:min-h-[25px] xs:w-[300px] s:w-[365px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start">
-                    <div className='flex justify-around items-center w-full xs:gap-[5px] s:gap-[2px]'>
-                        <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'></p>
-                        <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>1</p>
-                        <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>2</p>
-                    </div>
-                </div>
-                <div className='xs:min-h-[50px] s:min-h-[60px] xs:w-[300px] s:w-[365px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start'>
-                    <div className='flex justify-start items-center w-full gap-[12px]'>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-start items-center w-[9rem]'>
-                            <p className="text-center"></p>
-                        </p>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-center items-center'>
-                            <p className="text-center ">MAESTRAS ESCUELA D.</p>
-                        </p>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-center items-center'>
-                            <p className="text-center ">HNA MERLY Y HNA EDNA</p>
-                        </p>
-                    </div>
-                </div>
-                <div className="xs:min-h-[20px] s:min-h-[25px] xs:w-[300px] s:w-[365px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start">
-                <div className='flex justify-around items-center w-full xs:gap-[5px] s:gap-[2px]'>
-                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>6</p>
-                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>8</p>
-                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>9</p>
-                </div>
-                </div>
-                <div className='xs:min-h-[50px] s:min-h-[60px] xs:w-[300px] s:w-[365px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start'>
-                    <div className='flex justify-start items-center w-full gap-[12px]'>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-start items-center w-[9rem]'>
-                            <p className="text-center">HNA LAURA Y HNA DENIS</p>
-                        </p>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-center items-center'>
-                            <p className="text-center ">GRUPO C. MISIONERO</p>
-                        </p>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-center items-center'>
-                            <p className="text-center ">GRUPO C. MISIONERO</p>
-                        </p>
-                    </div>
-                </div>
-                <div className="xs:min-h-[20px] s:min-h-[25px] xs:w-[300px] s:w-[365px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start">
-                <div className='flex justify-around items-center w-full xs:gap-[5px] s:gap-[2px]'>
-                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>13</p>
-                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>15</p>
-                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>16</p>
-                </div>
-                </div>
-                <div className='xs:min-h-[50px] s:min-h-[60px] xs:w-[300px] s:w-[365px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start'>
-                    <div className='flex justify-start items-center w-full gap-[12px]'>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-start items-center w-[10rem]'>
-                            <p className="text-center">HNA ARGENIS</p>
-                        </p>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-center items-center'>
-                            <p className="text-center ">HNA ANREA Y HNA ADELA</p>
-                        </p>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-center items-center'>
-                            <p className="text-center ">HNA LUZ DARY Y HNA FLOR</p>
-                        </p>
-                    </div>
-                </div>
-                <div className="xs:min-h-[20px] s:min-h-[25px] xs:w-[300px] s:w-[365px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start">
-                <div className='flex justify-around items-center w-full xs:gap-[5px] s:gap-[2px]'>
-                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>20</p>
-                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>22</p>
-                    <p className='xs:text-[13px] s:text-[16px] font-medium flex flex-col justify-start items-center w-[73px]'>23</p>
-                </div>
-                </div>
-                <div className='xs:min-h-[50px] s:min-h-[60px] xs:w-[300px] s:w-[365px] flex bg-white border-r-[1px] border-l-[1px] border-b-[1px] border-gray-300 text-gray-600 justify-start'>
-                    <div className='flex justify-start items-center w-full gap-[12px]'>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-start items-center w-[9rem]'>
-                            <p className="text-center">HNO YONEFER Y ESPOSA</p>
-                        </p>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-center items-center'>
-                            <p className="text-center ">GRUPO DE ALABANZA</p>
-                        </p>
-                        <p className='xs:text-[13px] s:text-[14px] flex flex-col justify-center items-center'>
-                            <p className="text-center ">GRUPO DE ALABANZA</p>
-                        </p>
-                    </div>
-                </div>
+
+                { CardsInformationListKitchen.map( information => (
+
+                    <ListInformation
+                        key={information.numColumnDay2}
+                
+                        numColumnDay1={information.numColumnDay1}
+                        numColumnDay2={information.numColumnDay2}
+                        numColumnDay3={information.numColumnDay3}
+
+                        cooks1={information.cooks1}
+                        cooks2={information.cooks2}
+                        cooks3={information.cooks3}/>
+                ))}
             </section>
         </div>
     )
