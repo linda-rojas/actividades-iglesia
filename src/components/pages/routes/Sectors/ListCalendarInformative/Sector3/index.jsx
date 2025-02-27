@@ -1,7 +1,7 @@
 import { ChevronLeftIcon } from '@heroicons/react/24/solid'
 import { CardInformationSector3 } from '../../../../../../mocks/cards-informations';
 import { Link } from 'react-router-dom';
-import { InformationSector } from '../Sector1/InformationCalendar';
+import { InformationSector } from '../InformationCalendar';
 
 
 export const Sector3 = () => {

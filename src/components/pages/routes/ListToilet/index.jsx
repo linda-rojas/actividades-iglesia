@@ -20,7 +20,7 @@ export const ListToilet = () => {
             <section className='relative top-[5rem] flex flex-wrap flex-col items-center lg:flex-row select-none'>
             <div className='xs:h-8 s:h-10 xs:min-w-[300px] s:min-w-[365px] flex items-center justify-around xs:text-[15px] s:text-[18px] font-medium text-white bg-yellow-600'>
                 <span>Sábado</span>
-                <span>Familia</span>
+                <span>Corresponde:</span>
                 <span>Celular</span>
             </div>
             { CardActivitiesToilet.map( information => (

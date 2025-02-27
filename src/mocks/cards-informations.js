@@ -294,7 +294,7 @@ export const CardInformationSector1 = [
   {
     day: "Miércoles",
     num: "5",
-    description: "",
+    description: "Culto hogar Hna Rubiela 7:00 PM",
   },
   {
     day: "Jueves",
@@ -329,7 +329,7 @@ export const CardInformationSector1 = [
   {
     day: "Miércoles",
     num: "12",
-    description: "",
+    description: "Culto hogar Hna Maribel 7:00 PM",
   },
   {
     day: "Jueves",
@@ -364,7 +364,7 @@ export const CardInformationSector1 = [
   {
     day: "Miércoles",
     num: "19",
-    description: "",
+    description: "Culto hogar Hno Victor 6:00 PM",
   },
   {
     day: "Jueves",
@@ -379,7 +379,7 @@ export const CardInformationSector1 = [
   {
     day: "Sábado",
     num: "22",
-    description: "",
+    description: "Ayuno del Sector",
   },
   {
     day: "Domingo",
@@ -537,7 +537,7 @@ export const CardInformationSector2 = [
   {
     day: "Sábado",
     num: "22",
-    description: "Ayuno de Sector",
+    description: "Ayuno del Sector",
   },
   {
     day: "Domingo",
@@ -610,7 +610,7 @@ export const CardInformationSector3 = [
   {
     day: "Miércoles",
     num: "5",
-    description: "",
+    description: "Culto hogar Hna Ester mamá de la Hna Angela Mahecha 7:00 PM",
   },
   {
     day: "Jueves",
@@ -645,7 +645,7 @@ export const CardInformationSector3 = [
   {
     day: "Miércoles",
     num: "12",
-    description: "",
+    description: "Culto aire libre Hno Andrés Medina 7:00 PM",
   },
   {
     day: "Jueves",
@@ -680,7 +680,7 @@ export const CardInformationSector3 = [
   {
     day: "Miércoles",
     num: "19",
-    description: "",
+    description: "Culto hogar Hna Angela Mahecha 7:00 PM",
   },
   {
     day: "Jueves",
@@ -695,7 +695,7 @@ export const CardInformationSector3 = [
   {
     day: "Sábado",
     num: "22",
-    description: "",
+    description: "Ayuno del Sector",
   },
   {
     day: "Domingo",
@@ -715,7 +715,7 @@ export const CardInformationSector3 = [
   {
     day: "Miércoles",
     num: "26",
-    description: "",
+    description: "Culto aire libre Hno Cristián Medina 7:00 PM",
   },
   {
     day: "Jueves",
@@ -768,7 +768,7 @@ export const CardInformationSector4 = [
   {
     day: "Miércoles",
     num: "5",
-    description: "Culto donde el hermano Héctor 6:30 PM",
+    description: "Culto donde el hermano Héctor : 6:30 PM",
   },
   {
     day: "Jueves",
@@ -894,7 +894,7 @@ export const CardInformationSector4 = [
   {
     day: "Domingo",
     num: "30",
-    description: "Ayuno del sector 👉 4",
+    description: "Ayuno del Sector",
   },
   {
     day: "Lunes",
@@ -1350,26 +1350,31 @@ export const CardsInformationListKitchen = [
 ];
 
 export const CardActivitiesToilet = [
-  // {
-  //   date: "1",
-  //   family: "MEDINA SALAS",
-  //   tel: "313-411-9751",
-  // },
-  // {
-  //   date: "8",
-  //   family: "ESPERANZA FIESCO",
-  //   tel: "310-597-2401",
-  // },
-  // {
-  //   date: "15",
-  //   family: "CRUZ GARCIA",
-  //   tel: "322-479-2111",
-  // },
-  // {
-  //   date: "22",
-  //   family: "GRUPO ALABANZA",
-  //   tel: "312-319-7360",
-  // },
+  {
+    date: "1",
+    family: "HNO YONEFER BOLAÑOS Y HNA LINDA",
+    tel: "321-576-5682",
+  },
+  {
+    date: "8",
+    family: "FAMILIA ROJAS MANQUILLO",
+    tel: "318-718-3986",
+  },
+  {
+    date: "15",
+    family: "FAMILIA LULIGO FIOLE",
+    tel: "310-879-1063",
+  },
+  {
+    date: "22",
+    family: "JOVENES",
+    tel: "",
+  },
+  {
+    date: "29",
+    family: "FAMILIA FERNANDEZ GUTIERRES",
+    tel: "321-438-0483",
+  },
 ];
 
 export const CardsActivitiesEBICOL = [
