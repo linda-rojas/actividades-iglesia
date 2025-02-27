@@ -1372,20 +1372,6 @@ export const CardActivitiesToilet = [
   // },
 ];
 
-export const CardsActivitiesICAM = [
-  // {
-  //   imageName: "determinados",
-  //   title: "AYUNO",
-  //   description:
-  //     "¡Adolecente de Fé! Únete este domingo 9 para un día de búsqueda de la presencia de Dios",
-  // },
-  {
-    imageName: "determinados",
-    title: "Campamento ICAM",
-    description: "Campamento de adolecentes desde el 24 hasta el 26 de Octubre",
-  },
-];
-
 export const CardsActivitiesEBICOL = [
   {
     imageName:
@@ -1399,6 +1385,21 @@ export const CardsActivitiesEBICOL = [
     title: "Evangelismo",
     description:
       "Prepárate para este maraviloso evangelismo que se realizará el día 7 de Junio",
+  },
+];
+
+export const CardsActivitiesICAM = [
+  // {
+  //   imageName: "determinados",
+  //   title: "AYUNO",
+  //   description:
+  //     "¡Adolecente de Fé! Únete este domingo 9 para un día de búsqueda de la presencia de Dios",
+  // },
+  {
+    imageName:
+      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/470174468_563362769945264_316509160892983437_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEmNGhhsOHm6cFIicBXdnzGFjaM8wG3bFAWNozzAbdsUDLBrz1W6l6aWfXtM_ZD83jwsbZ-mjITSXseE-dqCk5l&_nc_ohc=Ry5-XlZZd60Q7kNvgFidV27&_nc_oc=Adgd3-EzSxynyRSHKNohTHB5xqaaNDg2H3gKSXTIf-nrcMXdtqS0_Gyw2fDXTkaQ3f0&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=A396okIqqs0PJ6t7QC1wD3K&oh=00_AYCAhzy4NEMWduGtDLG2aAl2US6JiMMjjjVIU8Wt-kwOWQ&oe=67C64032",
+    title: "Campamento ICAM",
+    description: "Campamento de adolecentes desde el 24 hasta el 26 de Octubre",
   },
 ];
 
