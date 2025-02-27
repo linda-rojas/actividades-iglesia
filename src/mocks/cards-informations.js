@@ -1289,16 +1289,16 @@ export const CardsInformationListUshers = [
 ];
 
 export const CardsActivitiesPraiseGroup = [
-  {
-    day: "Sábado",
-    num: "15",
-    description: "Día de Ayuno",
-  },
-  {
-    day: "Viernes",
-    num: "28",
-    description: "Velada de oración",
-  },
+  // {
+  //   day: "Sábado",
+  //   num: "15",
+  //   description: "Día de Ayuno",
+  // },
+  // {
+  //   day: "Viernes",
+  //   num: "28",
+  //   description: "Velada de oración",
+  // },
 ];
 
 export const CardsInformationListKitchen = [
@@ -1350,74 +1350,74 @@ export const CardsInformationListKitchen = [
 ];
 
 export const CardActivitiesToilet = [
-  {
-    date: "1",
-    family: "MEDINA SALAS",
-    tel: "313-411-9751",
-  },
-  {
-    date: "8",
-    family: "ESPERANZA FIESCO",
-    tel: "310-597-2401",
-  },
-  {
-    date: "15",
-    family: "CRUZ GARCIA",
-    tel: "322-479-2111",
-  },
-  {
-    date: "22",
-    family: "GRUPO ALABANZA",
-    tel: "312-319-7360",
-  },
+  // {
+  //   date: "1",
+  //   family: "MEDINA SALAS",
+  //   tel: "313-411-9751",
+  // },
+  // {
+  //   date: "8",
+  //   family: "ESPERANZA FIESCO",
+  //   tel: "310-597-2401",
+  // },
+  // {
+  //   date: "15",
+  //   family: "CRUZ GARCIA",
+  //   tel: "322-479-2111",
+  // },
+  // {
+  //   date: "22",
+  //   family: "GRUPO ALABANZA",
+  //   tel: "312-319-7360",
+  // },
 ];
 
 export const CardsActivitiesICAM = [
-  {
-    imageName: "determinados",
-    title: "AYUNO",
-    description:
-      "¡Adolecente de Fé! Únete este domingo 9 para un día de búsqueda de la presencia de Dios",
-  },
+  // {
+  //   imageName: "determinados",
+  //   title: "AYUNO",
+  //   description:
+  //     "¡Adolecente de Fé! Únete este domingo 9 para un día de búsqueda de la presencia de Dios",
+  // },
 ];
 
 export const CardsActivitiesJUVIC = [
-  {
-    imageName: "juvic_informative",
-    title: "AYUNO",
-    description:
-      "¡Recuerda Joven! Este sábado 1, día de ayuno para conectarte con Dios y renovar tu espíritu",
-  },
+  // {
+  //   imageName: "juvic_informative",
+  //   title: "AYUNO",
+  //   description:
+  //     "¡Recuerda Joven! Este sábado 1, día de ayuno para conectarte con Dios y renovar tu espíritu",
+  // },
 ];
 
 export const CardsActivitiesComunicaciones = [
-  {
-    imageName: "comunicaciones_informative",
-    title: "AYUNO",
-    description:
-      "Día de ayuno! Domingo 16 busquemos inspiración y guía para comunicar el mensaje de Dios con claridad y pasión",
-  },
+  // {
+  //   imageName: "comunicaciones_informative",
+  //   title: "AYUNO",
+  //   description:
+  //     "Día de ayuno! Domingo 16 busquemos inspiración y guía para comunicar el mensaje de Dios con claridad y pasión",
+  // },
 ];
 
 export const CardsActivitiesVisitsToTheElderly = [
-  {
-    day: "Domingo",
-    num: "2",
-    description: "Día de Ayuno",
-  },
-  {
-    day: "Miércoles",
-    num: "12",
-    description: "Visita al hogar del hermano Evigael 5:00 PM",
-  },
-  {
-    day: "Miércoles",
-    num: "19",
-    description: "Visita al hogar del hermano Arturo 4:00 PM",
-  },
-  {
-    day: "Miércoles",
-    num: "26",
-    description: "Visita en el hogar del hermano Fidel 5:00 PM",
-  },
+  // {
+  //   day: "Domingo",
+  //   num: "2",
+  //   description: "Día de Ayuno",
+  // },
+  // {
+  //   day: "Miércoles",
+  //   num: "12",
+  //   description: "Visita al hogar del hermano Evigael 5:00 PM",
+  // },
+  // {
+  //   day: "Miércoles",
+  //   num: "19",
+  //   description: "Visita al hogar del hermano Arturo 4:00 PM",
+  // },
+  // {
+  //   day: "Miércoles",
+  //   num: "26",
+  //   description: "Visita en el hogar del hermano Fidel 5:00 PM",
+  // },
 ];
