@@ -1389,12 +1389,6 @@ export const CardsActivitiesEBICOL = [
 ];
 
 export const CardsActivitiesICAM = [
-  // {
-  //   imageName: "determinados",
-  //   title: "AYUNO",
-  //   description:
-  //     "¡Adolecente de Fé! Únete este domingo 9 para un día de búsqueda de la presencia de Dios",
-  // },
   {
     imageName:
       "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/470174468_563362769945264_316509160892983437_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEmNGhhsOHm6cFIicBXdnzGFjaM8wG3bFAWNozzAbdsUDLBrz1W6l6aWfXtM_ZD83jwsbZ-mjITSXseE-dqCk5l&_nc_ohc=Ry5-XlZZd60Q7kNvgFidV27&_nc_oc=Adgd3-EzSxynyRSHKNohTHB5xqaaNDg2H3gKSXTIf-nrcMXdtqS0_Gyw2fDXTkaQ3f0&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=A396okIqqs0PJ6t7QC1wD3K&oh=00_AYCAhzy4NEMWduGtDLG2aAl2US6JiMMjjjVIU8Wt-kwOWQ&oe=67C64032",
@@ -1405,7 +1399,8 @@ export const CardsActivitiesICAM = [
 
 export const CardsActivitiesJUVIC = [
   {
-    imageName: "juvic_informative",
+    imageName:
+      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/475754532_944145694529746_6922932360023017521_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEpq7P4DPchZ_38_SEaxAVXndv8r2vOSZud2_yva85Jm69Lq1v8G3Sz7cyOUwR0toLvd465OvYIRND7iVnjZlU_&_nc_ohc=ux8IFeligRYQ7kNvgE4nezt&_nc_oc=AdgrEP38EVqxJxTJaeeSDmajBGqsXsx6AFb05fbnnmq_ERbbti_Jd-U5qT-rC5WGxxo&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AdKI56zqhFV8ub7-y4uLrcq&oh=00_AYCOAlASHYe5X8MEMZ0U9kCxf9x4CWjDmcuM9SiMoknjHQ&oe=67C65EF0",
     title: "Campamento",
     description: "Llegada el 17 Abril 8 AM, salida el 19 al medio día",
   },
