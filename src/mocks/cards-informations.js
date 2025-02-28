@@ -1306,16 +1306,16 @@ export const CardsInformationListUshers = [
 ];
 
 export const CardsActivitiesPraiseGroup = [
-  // {
-  //   day: "Sábado",
-  //   num: "15",
-  //   description: "Día de Ayuno",
-  // },
-  // {
-  //   day: "Viernes",
-  //   num: "28",
-  //   description: "Velada de oración",
-  // },
+  {
+    day: "Sábado",
+    num: "15",
+    description: "Día de Ayuno",
+  },
+  {
+    day: "Viernes",
+    num: "28",
+    description: "Velada de oración",
+  },
 ];
 
 export const CardsInformationListKitchen = [
