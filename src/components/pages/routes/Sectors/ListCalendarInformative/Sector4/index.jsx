@@ -25,6 +25,7 @@ export const Sector4 = () => {
                         day={information.day}
                         num={information.num}
                         description={information.description}
+                        fast={information.fast}
                         />
                 ))}
             </section>

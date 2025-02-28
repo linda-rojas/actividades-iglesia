@@ -46,7 +46,11 @@ export const ListUshers = () => {
                         usher2={information.usher2}
                         usher3={information.usher3}
                         usher4={information.usher4}
-                                
+                        
+                        theyNotClean1={information.theyNotClean1}
+                        theyNotClean2={information.theyNotClean2}
+
+
                         Toilet={information.Toilet}
                         fast={information.fast} />
                 ))}

@@ -354,7 +354,8 @@ export const CardInformationSector1 = [
   {
     day: "Lunes",
     num: "17",
-    description: "Ayuno congregacional",
+    description: "",
+    fast: "Ayuno congregacional",
   },
   {
     day: "Martes",
@@ -379,7 +380,8 @@ export const CardInformationSector1 = [
   {
     day: "Sábado",
     num: "22",
-    description: "Ayuno del Sector",
+    description: "",
+    fast: "Ayuno del Sector",
   },
   {
     day: "Domingo",
@@ -512,7 +514,8 @@ export const CardInformationSector2 = [
   {
     day: "Lunes",
     num: "17",
-    description: "Ayuno congregacional",
+    description: "",
+    fast: "Ayuno congregacional",
   },
   {
     day: "Martes",
@@ -537,7 +540,8 @@ export const CardInformationSector2 = [
   {
     day: "Sábado",
     num: "22",
-    description: "Ayuno del Sector",
+    description: "",
+    fast: "Ayuno del Sector",
   },
   {
     day: "Domingo",
@@ -670,7 +674,8 @@ export const CardInformationSector3 = [
   {
     day: "Lunes",
     num: "17",
-    description: "Ayuno congregacional",
+    description: "",
+    fast: "Ayuno congregacional",
   },
   {
     day: "Martes",
@@ -695,7 +700,8 @@ export const CardInformationSector3 = [
   {
     day: "Sábado",
     num: "22",
-    description: "Ayuno del Sector",
+    description: "",
+    fast: "Ayuno del Sector",
   },
   {
     day: "Domingo",
@@ -828,7 +834,8 @@ export const CardInformationSector4 = [
   {
     day: "Lunes",
     num: "17",
-    description: "Ayuno congregacional",
+    description: "",
+    fast: "Ayuno congregacional",
   },
   {
     day: "Martes",
@@ -894,7 +901,8 @@ export const CardInformationSector4 = [
   {
     day: "Domingo",
     num: "30",
-    description: "Ayuno del Sector",
+    description: "",
+    fast: "Ayuno del Sector",
   },
   {
     day: "Lunes",
@@ -987,7 +995,8 @@ export const CardInformationSector5 = [
   {
     day: "Lunes",
     num: "17",
-    description: "Ayuno congregacional",
+    description: "",
+    fast: "Ayuno congregacional",
   },
   {
     day: "Martes",
@@ -1100,7 +1109,8 @@ export const CardInformationAltoSanIsidro = [
   {
     day: "Sábado",
     num: "8",
-    description: "Ayuno Alto San Isidro",
+    description: "",
+    fast: "Ayuno Alto San Isidro",
   },
   {
     day: "Domingo",
@@ -1145,7 +1155,8 @@ export const CardInformationAltoSanIsidro = [
   {
     day: "Lunes",
     num: "17",
-    description: "Ayuno congregacional",
+    description: "",
+    fast: "Ayuno congregacional",
   },
   {
     day: "Martes",
@@ -1241,8 +1252,11 @@ export const CardsInformationListUshers = [
 
     usher1: "Sandra",
     usher2: "Hernán",
-    usher3: "Tomás, Anyi Manquillo, Roso",
-    usher4: "Tomás, Anyi Manquillo, Roso",
+    usher3: "",
+    usher4: "",
+
+    theyNotClean1: "Tomás, Anyi Manquillo, Roso",
+    theyNotClean2: "Tomás, Anyi Manquillo, Roso",
 
     Toilet: "Porfavor hacer el aseo",
   },
@@ -1280,8 +1294,11 @@ export const CardsInformationListUshers = [
 
     usher1: "Maribel",
     usher2: "",
-    usher3: "Enrrique, Roso, Anyi Manquillo",
-    usher4: "Enrrique, Roso, Anyi Manquillo",
+    usher3: "",
+    usher4: "",
+
+    theyNotClean1: "Enrrique, Roso, Anyi Manquillo",
+    theyNotClean2: "Enrrique, Roso, Anyi Manquillo",
 
     Toilet: "Porfavor hacer el aseo",
     fast: "Ayuno de Ujieres",
@@ -1378,37 +1395,43 @@ export const CardActivitiesToilet = [
 ];
 
 export const CardsActivitiesEBICOL = [
+  // {
+  //   imageName:
+  //     "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/481222764_563051430114247_3463229298657984993_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeELPFW4GI05iFi4mxr0DrpJtHIouVWoqRm0cii5VaipGY8ROfQxdwK9vua3PEXzxh-WqK6JcZuSzsBXlo8gEDa2&_nc_ohc=ropLqoaUwooQ7kNvgGMH-aA&_nc_oc=AdhV1HH7nSye8a3n1Ot6arpDR31bZEZ5vCqK67St3sDFBMaSoEN-fbAOtYkLEJs3028&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=A4J7eYpQpFbS2oIoACV81lg&oh=00_AYAWyZZ0LstY2uo4mwAIcc__Gr7akfQw5HoNDgyBSfHAmQ&oe=67C646A8",
+  //   title: "Campamento EBICOL",
+  //   description: "Campamento de niños desde el 14 hasta el 16 de Octubre",
+  // },
+  // {
+  //   imageName:
+  //     "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/474048011_537571605995563_383676238610139095_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHJb2gFZv1vt1eoB7Yy6mC6qfhd2ctCSXGp-F3Zy0JJcVu1adL8mIrl2BXnkEv_eVxR7Pd2T3RYi8GhFmAUSeAI&_nc_ohc=MI3bdHewXOsQ7kNvgH30iOq&_nc_oc=AdgCW1DC6fT67w2BzGw03448dokYdH3dIub9zJXY6PBJLRBs8p2cdWGVnG7BHMdOsqQ&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AyrzkxFHVNmd8gbffbTx36m&oh=00_AYC9gXV8DGLPjuRz9IEysOmFyYBzYOOoWdq0H-ZNk_osdQ&oe=67C62AFB",
+  //   title: "Evangelismo",
+  //   description:
+  //     "Prepárate para este maraviloso evangelismo que se realizará el día 7 de Junio",
+  // },
   {
     imageName:
       "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/481222764_563051430114247_3463229298657984993_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeELPFW4GI05iFi4mxr0DrpJtHIouVWoqRm0cii5VaipGY8ROfQxdwK9vua3PEXzxh-WqK6JcZuSzsBXlo8gEDa2&_nc_ohc=ropLqoaUwooQ7kNvgGMH-aA&_nc_oc=AdhV1HH7nSye8a3n1Ot6arpDR31bZEZ5vCqK67St3sDFBMaSoEN-fbAOtYkLEJs3028&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=A4J7eYpQpFbS2oIoACV81lg&oh=00_AYAWyZZ0LstY2uo4mwAIcc__Gr7akfQw5HoNDgyBSfHAmQ&oe=67C646A8",
-    title: "Campamento EBICOL",
-    description: "Campamento de niños desde el 14 hasta el 16 de Octubre",
-  },
-  {
-    imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/474048011_537571605995563_383676238610139095_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHJb2gFZv1vt1eoB7Yy6mC6qfhd2ctCSXGp-F3Zy0JJcVu1adL8mIrl2BXnkEv_eVxR7Pd2T3RYi8GhFmAUSeAI&_nc_ohc=MI3bdHewXOsQ7kNvgH30iOq&_nc_oc=AdgCW1DC6fT67w2BzGw03448dokYdH3dIub9zJXY6PBJLRBs8p2cdWGVnG7BHMdOsqQ&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AyrzkxFHVNmd8gbffbTx36m&oh=00_AYC9gXV8DGLPjuRz9IEysOmFyYBzYOOoWdq0H-ZNk_osdQ&oe=67C62AFB",
-    title: "Evangelismo",
-    description:
-      "Prepárate para este maraviloso evangelismo que se realizará el día 7 de Junio",
+    title: "Ayuno",
+    description: "Dia de ayuno 15 de Marzo a las 8:00 AM",
   },
 ];
 
 export const CardsActivitiesICAM = [
-  {
-    imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/470174468_563362769945264_316509160892983437_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEmNGhhsOHm6cFIicBXdnzGFjaM8wG3bFAWNozzAbdsUDLBrz1W6l6aWfXtM_ZD83jwsbZ-mjITSXseE-dqCk5l&_nc_ohc=Ry5-XlZZd60Q7kNvgFidV27&_nc_oc=Adgd3-EzSxynyRSHKNohTHB5xqaaNDg2H3gKSXTIf-nrcMXdtqS0_Gyw2fDXTkaQ3f0&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=A396okIqqs0PJ6t7QC1wD3K&oh=00_AYCAhzy4NEMWduGtDLG2aAl2US6JiMMjjjVIU8Wt-kwOWQ&oe=67C64032",
-    title: "Campamento ICAM",
-    description: "Campamento de adolecentes desde el 24 hasta el 26 de Octubre",
-  },
+  // {
+  //   imageName:
+  //     "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/470174468_563362769945264_316509160892983437_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEmNGhhsOHm6cFIicBXdnzGFjaM8wG3bFAWNozzAbdsUDLBrz1W6l6aWfXtM_ZD83jwsbZ-mjITSXseE-dqCk5l&_nc_ohc=Ry5-XlZZd60Q7kNvgFidV27&_nc_oc=Adgd3-EzSxynyRSHKNohTHB5xqaaNDg2H3gKSXTIf-nrcMXdtqS0_Gyw2fDXTkaQ3f0&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=A396okIqqs0PJ6t7QC1wD3K&oh=00_AYCAhzy4NEMWduGtDLG2aAl2US6JiMMjjjVIU8Wt-kwOWQ&oe=67C64032",
+  //   title: "Campamento ICAM",
+  //   description: "Campamento de adolecentes desde el 24 hasta el 26 de Octubre",
+  // },
 ];
 
 export const CardsActivitiesJUVIC = [
-  {
-    imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/475754532_944145694529746_6922932360023017521_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEpq7P4DPchZ_38_SEaxAVXndv8r2vOSZud2_yva85Jm69Lq1v8G3Sz7cyOUwR0toLvd465OvYIRND7iVnjZlU_&_nc_ohc=ux8IFeligRYQ7kNvgE4nezt&_nc_oc=AdgrEP38EVqxJxTJaeeSDmajBGqsXsx6AFb05fbnnmq_ERbbti_Jd-U5qT-rC5WGxxo&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AdKI56zqhFV8ub7-y4uLrcq&oh=00_AYCOAlASHYe5X8MEMZ0U9kCxf9x4CWjDmcuM9SiMoknjHQ&oe=67C65EF0",
-    title: "Campamento",
-    description: "Llegada el 17 Abril 8 AM, salida el 19 al medio día",
-  },
+  // {
+  //   imageName:
+  //     "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/475754532_944145694529746_6922932360023017521_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEpq7P4DPchZ_38_SEaxAVXndv8r2vOSZud2_yva85Jm69Lq1v8G3Sz7cyOUwR0toLvd465OvYIRND7iVnjZlU_&_nc_ohc=ux8IFeligRYQ7kNvgE4nezt&_nc_oc=AdgrEP38EVqxJxTJaeeSDmajBGqsXsx6AFb05fbnnmq_ERbbti_Jd-U5qT-rC5WGxxo&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AdKI56zqhFV8ub7-y4uLrcq&oh=00_AYCOAlASHYe5X8MEMZ0U9kCxf9x4CWjDmcuM9SiMoknjHQ&oe=67C65EF0",
+  //   title: "Campamento",
+  //   description: "Llegada el 17 Abril 8 AM, salida el 19 al medio día",
+  // },
 ];
 
 export const CardsActivitiesComunicaciones = [

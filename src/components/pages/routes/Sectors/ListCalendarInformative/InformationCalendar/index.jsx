@@ -7,7 +7,15 @@ export function InformationSector(
     num,
     // eslint-disable-next-line
     description,
+    // eslint-disable-next-line
+    fast,
 }) {
+
+    // const changeColorText1 = "Ayuno congregacional";
+    // const changeColorText2 = "Ayuno del Sector";
+    // const changeColorText3 = "Ayuno Alto San Isidro";
+
+
     return (
         <div className='max-w-[330px] min-h-[60px] w-full flex bg-white shadow-slate-700 shadow-md rounded-[0.4rem]'>
             <div className='min-w-[85px] bg-orange-600 text-white items-center justify-center flex flex-col rounded-l-[0.4rem]'>
@@ -16,7 +24,7 @@ export function InformationSector(
             </div>
             <div className='flex flex-col w-full justify-center items-center'>
                     <p className='text-[15px] text-center text-gray-700'>
-                        {description == "Ayuno congregacional"  || description == "Ayuno del Sector" || description == "Ayuno Alto San Isidro" ? <span className="text-red-500 text-[16px] font-semibold">{description}</span> : description}
+                        {description} <span className="text-red-500 text-[16px] font-semibold">{fast}</span>
                     </p>
             </div>
         </div>
