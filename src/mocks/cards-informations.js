@@ -63,7 +63,7 @@ export const CardsInformationNationalActivities = [
 export const CardsInformationAreaEvents = [
   {
     imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/481324985_519324944526231_2272397845832049588_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=VGMjSOyNbEgQ7kNvgGhybKD&_nc_oc=AdhoE1LDwbUxZbMAS7KjFTZwLJs1q0rvZMTf_rwAkrw5w1k6Z5fd2-mauOnx2VxtEfw&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AFfyL_T4aA5umuwuB_5OaGt&oh=00_AYC82EH6VmH7eJAQAz42ugLjaI4PZk8T7mJitTiU31YU_Q&oe=67C2DC0C",
+      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/475754532_944145694529746_6922932360023017521_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEpq7P4DPchZ_38_SEaxAVXndv8r2vOSZud2_yva85Jm69Lq1v8G3Sz7cyOUwR0toLvd465OvYIRND7iVnjZlU_&_nc_ohc=ux8IFeligRYQ7kNvgE4nezt&_nc_oc=AdgrEP38EVqxJxTJaeeSDmajBGqsXsx6AFb05fbnnmq_ERbbti_Jd-U5qT-rC5WGxxo&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AdKI56zqhFV8ub7-y4uLrcq&oh=00_AYCOAlASHYe5X8MEMZ0U9kCxf9x4CWjDmcuM9SiMoknjHQ&oe=67C65EF0",
     title: "Campamento de Jóvenes",
     description: "Llegada el 17 Abril 8 AM, salida el 19 al medio día",
   },
