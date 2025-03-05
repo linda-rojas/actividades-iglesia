@@ -69,7 +69,7 @@ export const CardsInformationAreaEvents = [
   },
   {
     imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/480559128_2884238061758742_4496036530275873774_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG1TEjXrBMWRLzv-T3n94LDxkIuhSVziDnGQi6FJXOIOYC6OqZWWihtxZyOMD0olMp90tbab2-cor2v3yINLNyh&_nc_ohc=GB4w8cGheOgQ7kNvgFdu1FZ&_nc_oc=AdhDOxHRqSDkZDeu_Q6aEhJA6pj3IcnXwxVDMmHQp1K-5u2ZztWkTCN0Tqu9KRgfAVg&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=A8Gm8G68q1DIp5hbEMiVwid&oh=00_AYCCbVPbXbcgVXTmRVcJmeZpBEFaupWIqtsGXTZYdMtz2A&oe=67C40DB1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJuQL2Luog_f3x6pV47eWZCTA29jzboMfS2Q&s",
     title: "Confraternidad",
     description: "¡Confraternidad en el Salado los días: 23 y 24 de este mes!",
   },
@@ -92,20 +92,16 @@ export const CardsInformationAreaEvents = [
     description: " Confraternidad en La Plata desde el 25 hasta 27 de Mayo",
   },
   {
-    imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/468879834_463185696806823_8599872876056934233_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHmZOIXZStVO4Q6WW35w-9V0Jmne0i07IzQmad7SLTsjDLF5Yw_5UxMUmEDSRKjFKKrASUbWhRfHIVuuyAm0T10&_nc_ohc=pSn70n34D9AQ7kNvgFBstMc&_nc_oc=AdjVVIRetJ_FpEG48jugyPJmXxFc--OJTan7Vqk_DNLbiuELJks1tyhBHom_37t_jpM&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=A_ZcVEVuxmLtplcAsu7NTBz&oh=00_AYAhUZRkNg-DhATBa4aydq5VtGY0RIQauTtastCYocAu5Q&oe=67C58C39",
-    title: "Evangelismo",
+    imageName: "",
     description: "Evangelismo EBICOL el día 7 de Junio",
   },
   {
-    imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/469178121_463729363419123_8704405581986692014_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE-W2os1IuzqR0zGeOYIDOzbh9XZZJrwZluH1dlkmvBmajdAlcgxpqlRHxIsbex_TK4jq2CA4WV1DQTzNz7Da_9&_nc_ohc=rhvqfaXnnvIQ7kNvgEHgwmA&_nc_oc=AdiXludtUNtY9YGntyXosxVGNm9rdq3_IlpijJ5Rw07YOdAcsYcBgQU0-KDR6RJ3t9w&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AQBdFtrpF14m0BAqniBL9pT&oh=00_AYC2DlK5zJbkR9z2JXZUsAs_qpkGPVQB8SJuo1o3Vy2blg&oe=67C57ACB",
+    imageName: "",
     title: "Vigilia",
     description: "El día 11 de Julio vigilia en Villa Losada",
   },
   {
-    imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/477509084_2877169082465640_8765258050051711103_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEbw_-L08V1m-MRBUiYHbFnihylIyPfX-6KHKUjI99f7m-LtbYkWx6KvJc7F1x1gyW4pTo1T-bO3Ls1J0jksPyw&_nc_ohc=GZQm2Tn1rjgQ7kNvgEESiIZ&_nc_oc=AdgCliUwKki_Kh6Oncpj_4weTtsWm3hXo9MCLFNlqdY2OIl1bVhJdHT0FONjlgU63p4&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AgXb2EZyqYLapcTcL_yLxUP&oh=00_AYBXcRhYY47aJQFGVdhIKVKJvOnk3OYIpJ4tA4gxG-wTRw&oe=67C58BCE",
+    imageName: "",
     title: "Confraternidad",
     description: "Confraternidad en Inzá desde el 27 hasta el 28 de Julio",
   },
@@ -123,8 +119,8 @@ export const CardsInformationAreaEvents = [
     description: "Vigilia en Guadualejo el día 29 de Agosto",
   },
   {
-    imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/469254642_2823688981146984_6966447913506859060_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEA1WLfW_PMlzp7aUKURKBb4OwAju2vbgTg7ACO7a9uBEMLVSiN3TUFnOJu_chGx2_nr0Vk5FjpfBw8MWqWbWKu&_nc_ohc=B4ypK2ydQqsQ7kNvgHuXDaV&_nc_oc=AdgZR7QuAJiJ3jfpCGc4Tb1IPidcw5uzWbDJUVFN1J6V7vECyGYDsHsl9_x2PLAXj6g&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=ATcA3JjCB4FVnl6DxWqKJRx&oh=00_AYBYANSIZrkfHbg0857L9s4BEB4K7lsgJjjb5_Xqpg1f1A&oe=67C56B96",
+    imageName: "",
+    title: "Confraternidad",
     description:
       "Confraternidad en Santa Leticia desde el 14 hasta el 15 de Septiembre",
   },
@@ -135,8 +131,7 @@ export const CardsInformationAreaEvents = [
     description: "Campamento de adolecentes desde el 24 hasta el 26 de Octubre",
   },
   {
-    imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/480580769_519160661209326_3874879686549597045_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGhF3flT-Gnyr_PjxCjwVd_a9_aHMNiLNtr39ocw2Is21IcslN_wVQC7JFvWwSaSQ24QxerTemgx68weklKW5aF&_nc_ohc=kFw0DWjFCTsQ7kNvgHcnxyM&_nc_oc=AdiXFCQT__Dtfwln1sDhxcl-YWQOb6bNtbaW2wcvTZS42FYs_CDVAtH28Jf3kk2LWYU&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=Aa6c6wJ-z2opH2YdD_CqJ_O&oh=00_AYAxRNvaa3Zd9YjSC_iRn8eSlPthYbjIfGCdlbQTi7f7yQ&oe=67C57851",
+    imageName: "",
     title: "Retiro",
     description: "Retiro pastores desde el 6 hasta el 7 de Noviembre",
   },
@@ -147,8 +142,7 @@ export const CardsInformationAreaEvents = [
     description: "Campamento de niños desde el 14 hasta el 16 de Octubre",
   },
   {
-    imageName:
-      "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/480943805_520806634378062_7729245260731990551_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHoWVUUPzfXJXxAZfOc0qztszyy05E5ZiKzPLLTkTlmIvtuj7Pi9_BK743GAn3fmjch1hEPYfksz8OoEi2rko7f&_nc_ohc=nV0POS-r9SIQ7kNvgG7oExt&_nc_oc=AdjMNO_7MSsX5uufBYgQaf8iz7gvb61OI2psgXZLlxjHXIW-bieheN-Z7PmKEaUWP_M&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=AuwZ6OjxBNSnMuEE-YJLLUm&oh=00_AYDO49Bb68kKkCQU1BgO9q-z7_7gHc3ZdHh3JYLvW9jspA&oe=67C56D6B",
+    imageName: "",
     title: "Retiro",
     description:
       "Esposas de pastores desde el 23 hasta el 26 de Noviembre, Lugar: La Argentina",
