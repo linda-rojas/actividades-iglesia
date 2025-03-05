@@ -1412,7 +1412,7 @@ export const CardsActivitiesEBICOL = [
     imageName:
       "https://scontent.fnva1-1.fna.fbcdn.net/v/t39.30808-6/481222764_563051430114247_3463229298657984993_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeELPFW4GI05iFi4mxr0DrpJtHIouVWoqRm0cii5VaipGY8ROfQxdwK9vua3PEXzxh-WqK6JcZuSzsBXlo8gEDa2&_nc_ohc=ropLqoaUwooQ7kNvgGMH-aA&_nc_oc=AdhV1HH7nSye8a3n1Ot6arpDR31bZEZ5vCqK67St3sDFBMaSoEN-fbAOtYkLEJs3028&_nc_zt=23&_nc_ht=scontent.fnva1-1.fna&_nc_gid=A4J7eYpQpFbS2oIoACV81lg&oh=00_AYAWyZZ0LstY2uo4mwAIcc__Gr7akfQw5HoNDgyBSfHAmQ&oe=67C646A8",
     title: "Ayuno",
-    description: "Dia de ayuno 15 de Marzo a las 8:00 AM",
+    description: "Dia de ayuno 22 de Marzo a las 8:00 AM",
   },
 ];
 
