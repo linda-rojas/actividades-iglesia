@@ -9,7 +9,7 @@ export const Sector3 = () => {
 
     return (
         <div>
-            <header className='s:h-[65px] bg-blue-700 flex xs:gap-[7rem] s:gap-[8rem] items-center w-full select-none'>
+            <header className='xs:h-[60px] s:h-[65px] bg-blue-700 flex xs:gap-[7rem] s:gap-[8rem] items-center w-full select-none'>
                 <Link to={sectors}>
                     <article className='flex ml-5'>
                         <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>

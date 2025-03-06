@@ -11,7 +11,7 @@ export function CardsInformativeActivities(
     
     
     return (
-        <div className='xs:max-w-[275px] s:max-w-[330px] xs:min-h-[100px] s:min-h-[120px] w-full flex bg-white rounded-[0.8rem] shadow-slate-700 shadow-md'>
+        <div className='xs:max-w-[300px] s:max-w-[330px] xs:min-h-[100px] s:min-h-[120px] w-full flex bg-white rounded-[0.8rem] shadow-slate-700 shadow-md'>
             <figure className='w-[255px]'>
                 <img 
                     className='object-cover min-h-[131px] rounded-l-[0.8rem]'

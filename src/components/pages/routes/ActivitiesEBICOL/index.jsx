@@ -9,13 +9,13 @@ export const ListEBICOL = () => {
 
     return (
         <div>
-            <header className='s:h-[65px] bg-blue-700 flex xs:gap-[3rem] s:gap-[6rem] items-center w-full select-none'>
+            <header className='xs:h-[60px] s:h-[65px] bg-blue-700 flex xs:gap-[3rem] s:gap-[5rem] items-center w-full select-none'>
                 <Link to={ActivitiesCurch}>
                     <article className='flex ml-5'>
                         <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
                     </article>
                 </Link>
-                <h1 className='text-center font-roboto font-semibold text-[24px] text-white'>Actividades 
+                <h1 className='text-center font-roboto font-semibold xs:text-[23px] s:text-[25px] text-white'>Actividades 
                     <span className='text-purple-500 pl-3'>E</span>
                     <span className='text-orange-500'>B</span>
                     <span className='text-green-500'>I</span>

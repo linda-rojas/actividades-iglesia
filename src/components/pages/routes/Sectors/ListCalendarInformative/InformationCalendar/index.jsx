@@ -17,8 +17,8 @@ export function InformationSector(
 
 
     return (
-        <div className='max-w-[330px] min-h-[60px] w-full flex bg-white shadow-slate-700 shadow-md rounded-[0.4rem]'>
-            <div className='min-w-[85px] bg-orange-600 text-white items-center justify-center flex flex-col rounded-l-[0.4rem]'>
+        <div className='xs:max-w-[315px] s:max-w-[330px] min-h-[60px] w-full flex bg-white shadow-slate-700 shadow-md rounded-[0.4rem]'>
+            <div className='xs:min-w-[80px] s:min-w-[85px] bg-orange-600 text-white items-center justify-center flex flex-col rounded-l-[0.4rem]'>
                 <span className='text-[16px] font-medium'>{day}</span>
                 <p className='text-[16px] font-medium'>{num}</p>
             </div>

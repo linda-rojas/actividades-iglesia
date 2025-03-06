@@ -8,13 +8,13 @@ export const ActivitiesArea = () => {
 
     return (
         <div>
-            <header className='s:h-[65px] bg-blue-700 flex xs:gap-[3.5rem] s:gap-[5rem] items-center w-full select-none'>
+            <header className='xs:h-[60px] s:h-[65px] bg-blue-700 flex xs:gap-[3.5rem] s:gap-[5rem] items-center w-full select-none'>
                 <Link to={home}>
                     <article className='flex ml-5'>
                         <ChevronLeftIcon className='w-5 h-[3rem] text-white' stroke='currentColor'/>
                     </article>
                 </Link>
-                <h1 className='text-center font-roboto font-semibold text-[27px] text-white'>Eventos zona 61</h1>
+                <h1 className='text-center font-roboto font-semibold xs:text-[24px] s:text-[27px] text-white'>Eventos zona 61</h1>
             </header>
             <section className='container-cards flex flex-wrap flex-col items-center mt-[4rem]  mb-[4rem] gap-8 select-none'>
             { CardsInformationAreaEvents.map( information => (

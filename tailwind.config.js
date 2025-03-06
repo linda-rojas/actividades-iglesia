@@ -8,7 +8,7 @@ export default {
       },
       screens: {
         xs: "300px", //breakpoint para pantallas más pequeñas
-        s: "374px",
+        s: "370px",
       },
       colors: {
         "custom-yellow": "#D9923B",
